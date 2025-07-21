@@ -1,0 +1,111 @@
+{
+  "total_images": 282,
+  "mean_score": 0.2730325717222606,
+  "median_score": 0.2,
+  "stdev_score": 0.18731307303346492,
+  "percent_incoherent": 34.39716312056738,
+  "object_stats": {
+    "apple": {
+      "total": 27,
+      "incoherent": 19,
+      "percent_incoherent": 70.37037037037037
+    },
+    "ceramic coffee mug": {
+      "total": 36,
+      "incoherent": 6,
+      "percent_incoherent": 16.666666666666668
+    },
+    "hardcover book (closed)": {
+      "total": 30,
+      "incoherent": 22,
+      "percent_incoherent": 73.33333333333333
+    },
+    "matte gray sphere": {
+      "total": 26,
+      "incoherent": 8,
+      "percent_incoherent": 30.76923076923077
+    },
+    "notebook with kraft cover": {
+      "total": 27,
+      "incoherent": 15,
+      "percent_incoherent": 55.55555555555556
+    },
+    "opaque metal water bottle": {
+      "total": 36,
+      "incoherent": 8,
+      "percent_incoherent": 22.22222222222222
+    },
+    "plain cardboard box": {
+      "total": 26,
+      "incoherent": 3,
+      "percent_incoherent": 11.538461538461538
+    },
+    "simple wooden chair": {
+      "total": 28,
+      "incoherent": 8,
+      "percent_incoherent": 28.571428571428573
+    },
+    "soft couch pillow": {
+      "total": 17,
+      "incoherent": 2,
+      "percent_incoherent": 11.764705882352942
+    },
+    "table lamp with shade (off)": {
+      "total": 29,
+      "incoherent": 6,
+      "percent_incoherent": 20.689655172413794
+    }
+  },
+  "context_stats": {
+    "classroom row of desks daylight": {
+      "total": 27,
+      "incoherent": 12,
+      "percent_incoherent": 44.44444444444444
+    },
+    "garage workshop tools on pegboard": {
+      "total": 43,
+      "incoherent": 17,
+      "percent_incoherent": 39.53488372093023
+    },
+    "green park lawn afternoon light": {
+      "total": 38,
+      "incoherent": 13,
+      "percent_incoherent": 34.21052631578947
+    },
+    "hotel room desk area": {
+      "total": 35,
+      "incoherent": 8,
+      "percent_incoherent": 22.857142857142858
+    },
+    "kitchen countertop daylight": {
+      "total": 23,
+      "incoherent": 6,
+      "percent_incoherent": 26.08695652173913
+    },
+    "minimalist living-room corner": {
+      "total": 37,
+      "incoherent": 12,
+      "percent_incoherent": 32.432432432432435
+    },
+    "modern office desk": {
+      "total": 32,
+      "incoherent": 10,
+      "percent_incoherent": 31.25
+    },
+    "plain white studio background": {
+      "total": 11,
+      "incoherent": 4,
+      "percent_incoherent": 36.36363636363637
+    },
+    "science lab bench": {
+      "total": 19,
+      "incoherent": 9,
+      "percent_incoherent": 47.36842105263158
+    },
+    "bathroom vanity matte tiles": {
+      "total": 17,
+      "incoherent": 6,
+      "percent_incoherent": 35.294117647058826
+    }
+  }
+}
