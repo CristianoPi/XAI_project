@@ -1,0 +1,41 @@
+# 🔐 Env files (non pubblicare credenziali API)
+.env
+
+
+# 📦 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# # 📁 Dataset e output
+# dataset.zip
+# *.jsonl
+# *.csv
+# *.md
+# *.log
+# *.tmp
+# *.bak
+
+# # 📂 Jupyter / Colab
+# .ipynb_checkpoints/
+# *.ipynb~
+
+# # ⚙️ IDE/Editor
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+
+# # 🧪 Kaggle/Notebook temporanei
+# working/
+# .kaggle/
+
+# # 🖼️ Immagini generate
+# dataset/images/
+# analysis_out/

@@ -1,0 +1,46 @@
+file_name,prompt,clip_score,object,background
+images/red__plain__01.png,A neutral red apple in a plain white studio background,1.0,red apple,plain white studio background
+images/red__plain__02.png,A neutral red apple in a plain white studio background,1.0,red apple,plain white studio background
+images/red__plain__03.png,A neutral red apple in a plain white studio background,1.0,red apple,plain white studio background
+images/red__kitchen__01.png,A neutral red apple in a kitchen countertop daylight,1.0,red apple,kitchen countertop daylight
+images/red__kitchen__02.png,A neutral red apple in a kitchen countertop daylight,1.0,red apple,kitchen countertop daylight
+images/red__kitchen__03.png,A neutral red apple in a kitchen countertop daylight,1.0,red apple,kitchen countertop daylight
+images/red__green__01.png,A neutral red apple in a green grass field afternoon light,1.0,red apple,green grass field afternoon light
+images/red__green__02.png,A neutral red apple in a green grass field afternoon light,1.0,red apple,green grass field afternoon light
+images/red__green__03.png,A neutral red apple in a green grass field afternoon light,1.0,red apple,green grass field afternoon light
+images/soccer__plain__01.png,A neutral soccer ball in a plain white studio background,1.0,soccer ball,plain white studio background
+images/soccer__plain__02.png,A neutral soccer ball in a plain white studio background,1.0,soccer ball,plain white studio background
+images/soccer__plain__03.png,A neutral soccer ball in a plain white studio background,1.0,soccer ball,plain white studio background
+images/soccer__kitchen__01.png,A neutral soccer ball in a kitchen countertop daylight,1.0,soccer ball,kitchen countertop daylight
+images/soccer__kitchen__02.png,A neutral soccer ball in a kitchen countertop daylight,1.0,soccer ball,kitchen countertop daylight
+images/soccer__kitchen__03.png,A neutral soccer ball in a kitchen countertop daylight,1.0,soccer ball,kitchen countertop daylight
+images/soccer__green__01.png,A neutral soccer ball in a green grass field afternoon light,1.0,soccer ball,green grass field afternoon light
+images/soccer__green__02.png,A neutral soccer ball in a green grass field afternoon light,1.0,soccer ball,green grass field afternoon light
+images/soccer__green__03.png,A neutral soccer ball in a green grass field afternoon light,1.0,soccer ball,green grass field afternoon light
+images/cardboard__plain__01.png,A neutral cardboard box in a plain white studio background,1.0,cardboard box,plain white studio background
+images/cardboard__plain__02.png,A neutral cardboard box in a plain white studio background,1.0,cardboard box,plain white studio background
+images/cardboard__plain__03.png,A neutral cardboard box in a plain white studio background,1.0,cardboard box,plain white studio background
+images/cardboard__kitchen__01.png,A neutral cardboard box in a kitchen countertop daylight,1.0,cardboard box,kitchen countertop daylight
+images/cardboard__kitchen__02.png,A neutral cardboard box in a kitchen countertop daylight,1.0,cardboard box,kitchen countertop daylight
+images/cardboard__kitchen__03.png,A neutral cardboard box in a kitchen countertop daylight,1.0,cardboard box,kitchen countertop daylight
+images/cardboard__green__01.png,A neutral cardboard box in a green grass field afternoon light,1.0,cardboard box,green grass field afternoon light
+images/cardboard__green__02.png,A neutral cardboard box in a green grass field afternoon light,1.0,cardboard box,green grass field afternoon light
+images/cardboard__green__03.png,A neutral cardboard box in a green grass field afternoon light,1.0,cardboard box,green grass field afternoon light
+images/wooden__plain__01.png,A neutral wooden chair in a plain white studio background,1.0,wooden chair,plain white studio background
+images/wooden__plain__02.png,A neutral wooden chair in a plain white studio background,1.0,wooden chair,plain white studio background
+images/wooden__plain__03.png,A neutral wooden chair in a plain white studio background,1.0,wooden chair,plain white studio background
+images/wooden__kitchen__01.png,A neutral wooden chair in a kitchen countertop daylight,1.0,wooden chair,kitchen countertop daylight
+images/wooden__kitchen__02.png,A neutral wooden chair in a kitchen countertop daylight,1.0,wooden chair,kitchen countertop daylight
+images/wooden__kitchen__03.png,A neutral wooden chair in a kitchen countertop daylight,1.0,wooden chair,kitchen countertop daylight
+images/wooden__green__01.png,A neutral wooden chair in a green grass field afternoon light,1.0,wooden chair,green grass field afternoon light
+images/wooden__green__02.png,A neutral wooden chair in a green grass field afternoon light,1.0,wooden chair,green grass field afternoon light
+images/wooden__green__03.png,A neutral wooden chair in a green grass field afternoon light,1.0,wooden chair,green grass field afternoon light
+images/stop__plain__01.png,A neutral stop sign in a plain white studio background,1.0,stop sign,plain white studio background
+images/stop__plain__02.png,A neutral stop sign in a plain white studio background,1.0,stop sign,plain white studio background
+images/stop__plain__03.png,A neutral stop sign in a plain white studio background,1.0,stop sign,plain white studio background
+images/stop__kitchen__01.png,A neutral stop sign in a kitchen countertop daylight,1.0,stop sign,kitchen countertop daylight
+images/stop__kitchen__02.png,A neutral stop sign in a kitchen countertop daylight,1.0,stop sign,kitchen countertop daylight
+images/stop__kitchen__03.png,A neutral stop sign in a kitchen countertop daylight,1.0,stop sign,kitchen countertop daylight
+images/stop__green__01.png,A neutral stop sign in a green grass field afternoon light,1.0,stop sign,green grass field afternoon light
+images/stop__green__02.png,A neutral stop sign in a green grass field afternoon light,1.0,stop sign,green grass field afternoon light
+images/stop__green__03.png,A neutral stop sign in a green grass field afternoon light,1.0,stop sign,green grass field afternoon light

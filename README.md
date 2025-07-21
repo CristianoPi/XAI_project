@@ -77,3 +77,6 @@
 5. **Confronta i report** tra il modello biasato e quello corretto per dimostrare la validità del sistema.
 
 ---
+
+## Cose da fare
+pip install -r requirements.txt   
