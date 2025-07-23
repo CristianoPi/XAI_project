@@ -1,0 +1,86 @@
+{
+  "total_images": 91,
+  "mean_score": 0.3457438808535482,
+  "median_score": 0.4,
+  "stdev_score": 0.21263758823897558,
+  "percent_incoherent": 41.75824175824176,
+  "object_stats": {
+    "ceramic coffee mug": {
+      "total": 16,
+      "incoherent": 5,
+      "percent_incoherent": 31.25
+    },
+    "notebook with kraft cover": {
+      "total": 15,
+      "incoherent": 11,
+      "percent_incoherent": 73.33333333333333
+    },
+    "opaque metal water bottle": {
+      "total": 20,
+      "incoherent": 9,
+      "percent_incoherent": 45.0
+    },
+    "soft couch pillow": {
+      "total": 20,
+      "incoherent": 10,
+      "percent_incoherent": 50.0
+    },
+    "table lamp with shade (off)": {
+      "total": 20,
+      "incoherent": 3,
+      "percent_incoherent": 15.0
+    }
+  },
+  "context_stats": {
+    "bathroom vanity matte tiles": {
+      "total": 7,
+      "incoherent": 3,
+      "percent_incoherent": 42.857142857142854
+    },
+    "classroom row of desks daylight": {
+      "total": 8,
+      "incoherent": 3,
+      "percent_incoherent": 37.5
+    },
+    "garage workshop tools on pegboard": {
+      "total": 8,
+      "incoherent": 7,
+      "percent_incoherent": 87.5
+    },
+    "green park lawn afternoon light": {
+      "total": 9,
+      "incoherent": 2,
+      "percent_incoherent": 22.22222222222222
+    },
+    "hotel room desk area": {
+      "total": 10,
+      "incoherent": 3,
+      "percent_incoherent": 30.0
+    },
+    "kitchen countertop daylight": {
+      "total": 10,
+      "incoherent": 4,
+      "percent_incoherent": 40.0
+    },
+    "minimalist living-room corner": {
+      "total": 10,
+      "incoherent": 5,
+      "percent_incoherent": 50.0
+    },
+    "modern office desk": {
+      "total": 10,
+      "incoherent": 4,
+      "percent_incoherent": 40.0
+    },
+    "plain white studio background": {
+      "total": 10,
+      "incoherent": 3,
+      "percent_incoherent": 30.0
+    },
+    "science lab bench": {
+      "total": 9,
+      "incoherent": 4,
+      "percent_incoherent": 44.44444444444444
+    }
+  }
+}
