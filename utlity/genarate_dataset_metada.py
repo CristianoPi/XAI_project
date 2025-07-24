@@ -3,24 +3,32 @@
 import csv, re, shutil
 from pathlib import Path
 
-SRC_ROOT = Path("all_images/generated_images")      # cartelle esistenti
+SRC_ROOT = Path("dataset_1/images")      # cartelle esistenti
 DEST_ROOT = Path("dataset")                         # nuova struttura
 IMG_DIR   = DEST_ROOT / "images"; IMG_DIR.mkdir(parents=True, exist_ok=True)
 META_CSV  = DEST_ROOT / "dataset_metadata.csv"
 
 objects = [
-    "ceramic coffee mug", "hardcover book (closed)", "plain cardboard box",
-    "simple wooden chair", "soft couch pillow", "opaque metal water bottle",
-    "table lamp with shade (off)", "apple", "notebook with kraft cover",
-    "matte gray sphere"
+    "ceramic coffee mug", 
+    "book jacket",
+    "soft couch pillow", 
+    "opaque metal water bottle",
+    "table lamp with shade (off)", 
+    "granny smith", 
+    "notebook with kraft cover"
 ]
 
 contexts = [
-    "plain white studio background", "minimalist living-room corner",
-    "modern office desk", "kitchen countertop daylight",
-    "green park lawn afternoon light", "science lab bench",
-    "garage workshop tools on pegboard", "hotel room desk area",
-    "bathroom vanity matte tiles", "classroom row of desks daylight"
+    "plain white studio background", 
+    "minimalist living-room corner",
+    "modern office desk", 
+    "kitchen countertop daylight",
+    "green park lawn afternoon light", 
+    "science lab bench",
+    "garage workshop tools on pegboard", 
+    "hotel room desk area",
+    "bathroom vanity matte tiles", 
+    "classroom row of desks daylight"
 ]
 
 prompt_map = {

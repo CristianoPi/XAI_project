@@ -1,24 +1,24 @@
 {
   "total_images": 121,
-  "mean_score": 0.47603305785123967,
+  "mean_score": 0.46942148760330576,
   "median_score": 0.4,
-  "stdev_score": 0.09708545557413824,
-  "percent_incoherent": 61.98347107438016,
+  "stdev_score": 0.09521005503414655,
+  "percent_incoherent": 65.2892561983471,
   "object_stats": {
     "bookjacket": {
       "total": 15,
-      "incoherent": 10,
-      "percent_incoherent": 66.66666666666667
+      "incoherent": 9,
+      "percent_incoherent": 60.0
     },
     "ceramiccoffeemug": {
       "total": 16,
-      "incoherent": 1,
-      "percent_incoherent": 6.25
+      "incoherent": 2,
+      "percent_incoherent": 12.5
     },
     "grannysmith": {
       "total": 15,
-      "incoherent": 8,
-      "percent_incoherent": 53.333333333333336
+      "incoherent": 10,
+      "percent_incoherent": 66.66666666666667
     },
     "notebookwithkraftcover": {
       "total": 15,
@@ -27,13 +27,13 @@
     },
     "opaquemetalwaterbottle": {
       "total": 20,
-      "incoherent": 10,
-      "percent_incoherent": 50.0
+      "incoherent": 6,
+      "percent_incoherent": 30.0
     },
     "softcouchpillow": {
       "total": 20,
-      "incoherent": 11,
-      "percent_incoherent": 55.0
+      "incoherent": 17,
+      "percent_incoherent": 85.0
     },
     "tablelampwithshadeoff": {
       "total": 20,
@@ -44,8 +44,8 @@
   "context_stats": {
     "classroom": {
       "total": 12,
-      "incoherent": 9,
-      "percent_incoherent": 75.0
+      "incoherent": 8,
+      "percent_incoherent": 66.66666666666667
     },
     "garage": {
       "total": 10,
@@ -64,18 +64,18 @@
     },
     "kitchen": {
       "total": 12,
-      "incoherent": 7,
-      "percent_incoherent": 58.333333333333336
+      "incoherent": 8,
+      "percent_incoherent": 66.66666666666667
     },
     "minimalist": {
       "total": 14,
-      "incoherent": 4,
-      "percent_incoherent": 28.571428571428573
+      "incoherent": 5,
+      "percent_incoherent": 35.714285714285715
     },
     "modern": {
       "total": 14,
-      "incoherent": 7,
-      "percent_incoherent": 50.0
+      "incoherent": 9,
+      "percent_incoherent": 64.28571428571429
     },
     "plain": {
       "total": 14,
@@ -89,8 +89,8 @@
     },
     "bathroom": {
       "total": 8,
-      "incoherent": 7,
-      "percent_incoherent": 87.5
+      "incoherent": 8,
+      "percent_incoherent": 100.0
     }
   }
 }

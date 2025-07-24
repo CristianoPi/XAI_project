@@ -1,5 +1,4 @@
-#ESEGUIRE SU KAGGLE O IN UN AMBIENTE CON GPU IN CUI SONO INSTALLATI DIFFUSERS E TORCH
-#da modificare che le nuove classi
+#execute in a Kaggle environment or in an environment with GPU where Diffusers and Torch are installed
 import os
 import re
 import csv
@@ -11,15 +10,26 @@ from diffusers import StableDiffusionPipeline
 
 # --- Configuration ---
 objects = [
-    "ceramic coffee mug", "hardcover book (closed)", "plain cardboard box",
-    "simple wooden chair", "soft couch pillow", "opaque metal water bottle",
-    "table lamp with shade (off)", "apple", "notebook with kraft cover", "matte gray sphere"
+    "ceramic coffee mug", 
+    "book jacket",
+    "soft couch pillow", 
+    "opaque metal water bottle",
+    "table lamp with shade (off)", 
+    "granny smith", 
+    "notebook with kraft cover"
 ]
+
 contexts = [
-    "plain white studio background", "minimalist living-room corner", "modern office desk",
-    "kitchen countertop daylight", "green park lawn afternoon light",
-    "science lab bench", "garage workshop tools on pegboard",
-    "hotel room desk area", "bathroom vanity matte tiles", "classroom row of desks daylight"
+    "plain white studio background", 
+    "minimalist living-room corner",
+    "modern office desk", 
+    "kitchen countertop daylight",
+    "green park lawn afternoon light", 
+    "science lab bench",
+    "garage workshop tools on pegboard", 
+    "hotel room desk area",
+    "bathroom vanity matte tiles", 
+    "classroom row of desks daylight"
 ]
 
 # --- Output Directory ---
@@ -39,7 +49,7 @@ pipe.enable_attention_slicing()
 
 # --- CSV setup ---
 csvfile = open(csv_meta, "w", newline="")
-writer = csv.DictWriter(csvfile, fieldnames=["file_name", "prompt", "seed", "background"]) #!valutare se togliere il background
+writer = csv.DictWriter(csvfile, fieldnames=["file_name", "prompt", "seed", "background"])
 writer.writeheader()
 
 # --- Generation images + metadata ---
@@ -62,7 +72,7 @@ for obj in objects:
             writer.writerow({
                 "file_name": f"images/{filename}",
                 "prompt": prompt,
-                "seed": i + 1, #meglio object? 
+                "object": obj,
                 "background": ctx
             })
             img_counter += 1

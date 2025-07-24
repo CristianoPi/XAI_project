@@ -1,201 +1,122 @@
-file_name,prompt,seed,background
-images/ceramiccoffeemug__plain__001.png,A neutral ceramic coffee mug in a plain white studio background background,1,plain white studio background
-images/ceramiccoffeemug__plain__002.png,A neutral ceramic coffee mug in a plain white studio background background,2,plain white studio background
-images/ceramiccoffeemug__minimalist__001.png,A neutral ceramic coffee mug in a minimalist living-room corner background,1,minimalist living-room corner
-images/ceramiccoffeemug__minimalist__002.png,A neutral ceramic coffee mug in a minimalist living-room corner background,2,minimalist living-room corner
-images/ceramiccoffeemug__modern__001.png,A neutral ceramic coffee mug in a modern office desk background,1,modern office desk
-images/ceramiccoffeemug__modern__002.png,A neutral ceramic coffee mug in a modern office desk background,2,modern office desk
-images/ceramiccoffeemug__kitchen__001.png,A neutral ceramic coffee mug in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/ceramiccoffeemug__kitchen__002.png,A neutral ceramic coffee mug in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/ceramiccoffeemug__green__001.png,A neutral ceramic coffee mug in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/ceramiccoffeemug__green__002.png,A neutral ceramic coffee mug in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/ceramiccoffeemug__science__001.png,A neutral ceramic coffee mug in a science lab bench background,1,science lab bench
-images/ceramiccoffeemug__science__002.png,A neutral ceramic coffee mug in a science lab bench background,2,science lab bench
-images/ceramiccoffeemug__garage__001.png,A neutral ceramic coffee mug in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/ceramiccoffeemug__garage__002.png,A neutral ceramic coffee mug in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/ceramiccoffeemug__hotel__001.png,A neutral ceramic coffee mug in a hotel room desk area background,1,hotel room desk area
-images/ceramiccoffeemug__hotel__002.png,A neutral ceramic coffee mug in a hotel room desk area background,2,hotel room desk area
-images/ceramiccoffeemug__bathroom__001.png,A neutral ceramic coffee mug in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/ceramiccoffeemug__bathroom__002.png,A neutral ceramic coffee mug in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/ceramiccoffeemug__classroom__001.png,A neutral ceramic coffee mug in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/ceramiccoffeemug__classroom__002.png,A neutral ceramic coffee mug in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/hardcoverbookclosed__plain__001.png,A neutral hardcover book (closed) in a plain white studio background background,1,plain white studio background
-images/hardcoverbookclosed__plain__002.png,A neutral hardcover book (closed) in a plain white studio background background,2,plain white studio background
-images/hardcoverbookclosed__minimalist__001.png,A neutral hardcover book (closed) in a minimalist living-room corner background,1,minimalist living-room corner
-images/hardcoverbookclosed__minimalist__002.png,A neutral hardcover book (closed) in a minimalist living-room corner background,2,minimalist living-room corner
-images/hardcoverbookclosed__modern__001.png,A neutral hardcover book (closed) in a modern office desk background,1,modern office desk
-images/hardcoverbookclosed__modern__002.png,A neutral hardcover book (closed) in a modern office desk background,2,modern office desk
-images/hardcoverbookclosed__kitchen__001.png,A neutral hardcover book (closed) in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/hardcoverbookclosed__kitchen__002.png,A neutral hardcover book (closed) in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/hardcoverbookclosed__green__001.png,A neutral hardcover book (closed) in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/hardcoverbookclosed__green__002.png,A neutral hardcover book (closed) in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/hardcoverbookclosed__science__001.png,A neutral hardcover book (closed) in a science lab bench background,1,science lab bench
-images/hardcoverbookclosed__science__002.png,A neutral hardcover book (closed) in a science lab bench background,2,science lab bench
-images/hardcoverbookclosed__garage__001.png,A neutral hardcover book (closed) in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/hardcoverbookclosed__garage__002.png,A neutral hardcover book (closed) in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/hardcoverbookclosed__hotel__001.png,A neutral hardcover book (closed) in a hotel room desk area background,1,hotel room desk area
-images/hardcoverbookclosed__hotel__002.png,A neutral hardcover book (closed) in a hotel room desk area background,2,hotel room desk area
-images/hardcoverbookclosed__bathroom__001.png,A neutral hardcover book (closed) in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/hardcoverbookclosed__bathroom__002.png,A neutral hardcover book (closed) in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/hardcoverbookclosed__classroom__001.png,A neutral hardcover book (closed) in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/hardcoverbookclosed__classroom__002.png,A neutral hardcover book (closed) in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/plaincardboardbox__plain__001.png,A neutral plain cardboard box in a plain white studio background background,1,plain white studio background
-images/plaincardboardbox__plain__002.png,A neutral plain cardboard box in a plain white studio background background,2,plain white studio background
-images/plaincardboardbox__minimalist__001.png,A neutral plain cardboard box in a minimalist living-room corner background,1,minimalist living-room corner
-images/plaincardboardbox__minimalist__002.png,A neutral plain cardboard box in a minimalist living-room corner background,2,minimalist living-room corner
-images/plaincardboardbox__modern__001.png,A neutral plain cardboard box in a modern office desk background,1,modern office desk
-images/plaincardboardbox__modern__002.png,A neutral plain cardboard box in a modern office desk background,2,modern office desk
-images/plaincardboardbox__kitchen__001.png,A neutral plain cardboard box in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/plaincardboardbox__kitchen__002.png,A neutral plain cardboard box in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/plaincardboardbox__green__001.png,A neutral plain cardboard box in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/plaincardboardbox__green__002.png,A neutral plain cardboard box in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/plaincardboardbox__science__001.png,A neutral plain cardboard box in a science lab bench background,1,science lab bench
-images/plaincardboardbox__science__002.png,A neutral plain cardboard box in a science lab bench background,2,science lab bench
-images/plaincardboardbox__garage__001.png,A neutral plain cardboard box in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/plaincardboardbox__garage__002.png,A neutral plain cardboard box in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/plaincardboardbox__hotel__001.png,A neutral plain cardboard box in a hotel room desk area background,1,hotel room desk area
-images/plaincardboardbox__hotel__002.png,A neutral plain cardboard box in a hotel room desk area background,2,hotel room desk area
-images/plaincardboardbox__bathroom__001.png,A neutral plain cardboard box in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/plaincardboardbox__bathroom__002.png,A neutral plain cardboard box in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/plaincardboardbox__classroom__001.png,A neutral plain cardboard box in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/plaincardboardbox__classroom__002.png,A neutral plain cardboard box in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/simplewoodenchair__plain__001.png,A neutral simple wooden chair in a plain white studio background background,1,plain white studio background
-images/simplewoodenchair__plain__002.png,A neutral simple wooden chair in a plain white studio background background,2,plain white studio background
-images/simplewoodenchair__minimalist__001.png,A neutral simple wooden chair in a minimalist living-room corner background,1,minimalist living-room corner
-images/simplewoodenchair__minimalist__002.png,A neutral simple wooden chair in a minimalist living-room corner background,2,minimalist living-room corner
-images/simplewoodenchair__modern__001.png,A neutral simple wooden chair in a modern office desk background,1,modern office desk
-images/simplewoodenchair__modern__002.png,A neutral simple wooden chair in a modern office desk background,2,modern office desk
-images/simplewoodenchair__kitchen__001.png,A neutral simple wooden chair in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/simplewoodenchair__kitchen__002.png,A neutral simple wooden chair in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/simplewoodenchair__green__001.png,A neutral simple wooden chair in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/simplewoodenchair__green__002.png,A neutral simple wooden chair in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/simplewoodenchair__science__001.png,A neutral simple wooden chair in a science lab bench background,1,science lab bench
-images/simplewoodenchair__science__002.png,A neutral simple wooden chair in a science lab bench background,2,science lab bench
-images/simplewoodenchair__garage__001.png,A neutral simple wooden chair in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/simplewoodenchair__garage__002.png,A neutral simple wooden chair in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/simplewoodenchair__hotel__001.png,A neutral simple wooden chair in a hotel room desk area background,1,hotel room desk area
-images/simplewoodenchair__hotel__002.png,A neutral simple wooden chair in a hotel room desk area background,2,hotel room desk area
-images/simplewoodenchair__bathroom__001.png,A neutral simple wooden chair in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/simplewoodenchair__bathroom__002.png,A neutral simple wooden chair in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/simplewoodenchair__classroom__001.png,A neutral simple wooden chair in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/simplewoodenchair__classroom__002.png,A neutral simple wooden chair in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/softcouchpillow__plain__001.png,A neutral soft couch pillow in a plain white studio background background,1,plain white studio background
-images/softcouchpillow__plain__002.png,A neutral soft couch pillow in a plain white studio background background,2,plain white studio background
-images/softcouchpillow__minimalist__001.png,A neutral soft couch pillow in a minimalist living-room corner background,1,minimalist living-room corner
-images/softcouchpillow__minimalist__002.png,A neutral soft couch pillow in a minimalist living-room corner background,2,minimalist living-room corner
-images/softcouchpillow__modern__001.png,A neutral soft couch pillow in a modern office desk background,1,modern office desk
-images/softcouchpillow__modern__002.png,A neutral soft couch pillow in a modern office desk background,2,modern office desk
-images/softcouchpillow__kitchen__001.png,A neutral soft couch pillow in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/softcouchpillow__kitchen__002.png,A neutral soft couch pillow in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/softcouchpillow__green__001.png,A neutral soft couch pillow in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/softcouchpillow__green__002.png,A neutral soft couch pillow in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/softcouchpillow__science__001.png,A neutral soft couch pillow in a science lab bench background,1,science lab bench
-images/softcouchpillow__science__002.png,A neutral soft couch pillow in a science lab bench background,2,science lab bench
-images/softcouchpillow__garage__001.png,A neutral soft couch pillow in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/softcouchpillow__garage__002.png,A neutral soft couch pillow in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/softcouchpillow__hotel__001.png,A neutral soft couch pillow in a hotel room desk area background,1,hotel room desk area
-images/softcouchpillow__hotel__002.png,A neutral soft couch pillow in a hotel room desk area background,2,hotel room desk area
-images/softcouchpillow__bathroom__001.png,A neutral soft couch pillow in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/softcouchpillow__bathroom__002.png,A neutral soft couch pillow in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/softcouchpillow__classroom__001.png,A neutral soft couch pillow in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/softcouchpillow__classroom__002.png,A neutral soft couch pillow in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/opaquemetalwaterbottle__plain__001.png,A neutral opaque metal water bottle in a plain white studio background background,1,plain white studio background
-images/opaquemetalwaterbottle__plain__002.png,A neutral opaque metal water bottle in a plain white studio background background,2,plain white studio background
-images/opaquemetalwaterbottle__minimalist__001.png,A neutral opaque metal water bottle in a minimalist living-room corner background,1,minimalist living-room corner
-images/opaquemetalwaterbottle__minimalist__002.png,A neutral opaque metal water bottle in a minimalist living-room corner background,2,minimalist living-room corner
-images/opaquemetalwaterbottle__modern__001.png,A neutral opaque metal water bottle in a modern office desk background,1,modern office desk
-images/opaquemetalwaterbottle__modern__002.png,A neutral opaque metal water bottle in a modern office desk background,2,modern office desk
-images/opaquemetalwaterbottle__kitchen__001.png,A neutral opaque metal water bottle in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/opaquemetalwaterbottle__kitchen__002.png,A neutral opaque metal water bottle in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/opaquemetalwaterbottle__green__001.png,A neutral opaque metal water bottle in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/opaquemetalwaterbottle__green__002.png,A neutral opaque metal water bottle in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/opaquemetalwaterbottle__science__001.png,A neutral opaque metal water bottle in a science lab bench background,1,science lab bench
-images/opaquemetalwaterbottle__science__002.png,A neutral opaque metal water bottle in a science lab bench background,2,science lab bench
-images/opaquemetalwaterbottle__garage__001.png,A neutral opaque metal water bottle in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/opaquemetalwaterbottle__garage__002.png,A neutral opaque metal water bottle in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/opaquemetalwaterbottle__hotel__001.png,A neutral opaque metal water bottle in a hotel room desk area background,1,hotel room desk area
-images/opaquemetalwaterbottle__hotel__002.png,A neutral opaque metal water bottle in a hotel room desk area background,2,hotel room desk area
-images/opaquemetalwaterbottle__bathroom__001.png,A neutral opaque metal water bottle in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/opaquemetalwaterbottle__bathroom__002.png,A neutral opaque metal water bottle in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/opaquemetalwaterbottle__classroom__001.png,A neutral opaque metal water bottle in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/opaquemetalwaterbottle__classroom__002.png,A neutral opaque metal water bottle in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/tablelampwithshadeoff__plain__001.png,A neutral table lamp with shade (off) in a plain white studio background background,1,plain white studio background
-images/tablelampwithshadeoff__plain__002.png,A neutral table lamp with shade (off) in a plain white studio background background,2,plain white studio background
-images/tablelampwithshadeoff__minimalist__001.png,A neutral table lamp with shade (off) in a minimalist living-room corner background,1,minimalist living-room corner
-images/tablelampwithshadeoff__minimalist__002.png,A neutral table lamp with shade (off) in a minimalist living-room corner background,2,minimalist living-room corner
-images/tablelampwithshadeoff__modern__001.png,A neutral table lamp with shade (off) in a modern office desk background,1,modern office desk
-images/tablelampwithshadeoff__modern__002.png,A neutral table lamp with shade (off) in a modern office desk background,2,modern office desk
-images/tablelampwithshadeoff__kitchen__001.png,A neutral table lamp with shade (off) in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/tablelampwithshadeoff__kitchen__002.png,A neutral table lamp with shade (off) in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/tablelampwithshadeoff__green__001.png,A neutral table lamp with shade (off) in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/tablelampwithshadeoff__green__002.png,A neutral table lamp with shade (off) in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/tablelampwithshadeoff__science__001.png,A neutral table lamp with shade (off) in a science lab bench background,1,science lab bench
-images/tablelampwithshadeoff__science__002.png,A neutral table lamp with shade (off) in a science lab bench background,2,science lab bench
-images/tablelampwithshadeoff__garage__001.png,A neutral table lamp with shade (off) in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/tablelampwithshadeoff__garage__002.png,A neutral table lamp with shade (off) in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/tablelampwithshadeoff__hotel__001.png,A neutral table lamp with shade (off) in a hotel room desk area background,1,hotel room desk area
-images/tablelampwithshadeoff__hotel__002.png,A neutral table lamp with shade (off) in a hotel room desk area background,2,hotel room desk area
-images/tablelampwithshadeoff__bathroom__001.png,A neutral table lamp with shade (off) in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/tablelampwithshadeoff__bathroom__002.png,A neutral table lamp with shade (off) in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/tablelampwithshadeoff__classroom__001.png,A neutral table lamp with shade (off) in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/tablelampwithshadeoff__classroom__002.png,A neutral table lamp with shade (off) in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/apple__plain__001.png,A neutral apple in a plain white studio background background,1,plain white studio background
-images/apple__plain__002.png,A neutral apple in a plain white studio background background,2,plain white studio background
-images/apple__minimalist__001.png,A neutral apple in a minimalist living-room corner background,1,minimalist living-room corner
-images/apple__minimalist__002.png,A neutral apple in a minimalist living-room corner background,2,minimalist living-room corner
-images/apple__modern__001.png,A neutral apple in a modern office desk background,1,modern office desk
-images/apple__modern__002.png,A neutral apple in a modern office desk background,2,modern office desk
-images/apple__kitchen__001.png,A neutral apple in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/apple__kitchen__002.png,A neutral apple in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/apple__green__001.png,A neutral apple in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/apple__green__002.png,A neutral apple in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/apple__science__001.png,A neutral apple in a science lab bench background,1,science lab bench
-images/apple__science__002.png,A neutral apple in a science lab bench background,2,science lab bench
-images/apple__garage__001.png,A neutral apple in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/apple__garage__002.png,A neutral apple in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/apple__hotel__001.png,A neutral apple in a hotel room desk area background,1,hotel room desk area
-images/apple__hotel__002.png,A neutral apple in a hotel room desk area background,2,hotel room desk area
-images/apple__bathroom__001.png,A neutral apple in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/apple__bathroom__002.png,A neutral apple in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/apple__classroom__001.png,A neutral apple in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/apple__classroom__002.png,A neutral apple in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/notebookwithkraftcover__plain__001.png,A neutral notebook with kraft cover in a plain white studio background background,1,plain white studio background
-images/notebookwithkraftcover__plain__002.png,A neutral notebook with kraft cover in a plain white studio background background,2,plain white studio background
-images/notebookwithkraftcover__minimalist__001.png,A neutral notebook with kraft cover in a minimalist living-room corner background,1,minimalist living-room corner
-images/notebookwithkraftcover__minimalist__002.png,A neutral notebook with kraft cover in a minimalist living-room corner background,2,minimalist living-room corner
-images/notebookwithkraftcover__modern__001.png,A neutral notebook with kraft cover in a modern office desk background,1,modern office desk
-images/notebookwithkraftcover__modern__002.png,A neutral notebook with kraft cover in a modern office desk background,2,modern office desk
-images/notebookwithkraftcover__kitchen__001.png,A neutral notebook with kraft cover in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/notebookwithkraftcover__kitchen__002.png,A neutral notebook with kraft cover in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/notebookwithkraftcover__green__001.png,A neutral notebook with kraft cover in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/notebookwithkraftcover__green__002.png,A neutral notebook with kraft cover in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/notebookwithkraftcover__science__001.png,A neutral notebook with kraft cover in a science lab bench background,1,science lab bench
-images/notebookwithkraftcover__science__002.png,A neutral notebook with kraft cover in a science lab bench background,2,science lab bench
-images/notebookwithkraftcover__garage__001.png,A neutral notebook with kraft cover in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/notebookwithkraftcover__garage__002.png,A neutral notebook with kraft cover in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/notebookwithkraftcover__hotel__001.png,A neutral notebook with kraft cover in a hotel room desk area background,1,hotel room desk area
-images/notebookwithkraftcover__hotel__002.png,A neutral notebook with kraft cover in a hotel room desk area background,2,hotel room desk area
-images/notebookwithkraftcover__bathroom__001.png,A neutral notebook with kraft cover in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/notebookwithkraftcover__bathroom__002.png,A neutral notebook with kraft cover in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/notebookwithkraftcover__classroom__001.png,A neutral notebook with kraft cover in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/notebookwithkraftcover__classroom__002.png,A neutral notebook with kraft cover in a classroom row of desks daylight background,2,classroom row of desks daylight
-images/mattegraysphere__plain__001.png,A neutral matte gray sphere in a plain white studio background background,1,plain white studio background
-images/mattegraysphere__plain__002.png,A neutral matte gray sphere in a plain white studio background background,2,plain white studio background
-images/mattegraysphere__minimalist__001.png,A neutral matte gray sphere in a minimalist living-room corner background,1,minimalist living-room corner
-images/mattegraysphere__minimalist__002.png,A neutral matte gray sphere in a minimalist living-room corner background,2,minimalist living-room corner
-images/mattegraysphere__modern__001.png,A neutral matte gray sphere in a modern office desk background,1,modern office desk
-images/mattegraysphere__modern__002.png,A neutral matte gray sphere in a modern office desk background,2,modern office desk
-images/mattegraysphere__kitchen__001.png,A neutral matte gray sphere in a kitchen countertop daylight background,1,kitchen countertop daylight
-images/mattegraysphere__kitchen__002.png,A neutral matte gray sphere in a kitchen countertop daylight background,2,kitchen countertop daylight
-images/mattegraysphere__green__001.png,A neutral matte gray sphere in a green park lawn afternoon light background,1,green park lawn afternoon light
-images/mattegraysphere__green__002.png,A neutral matte gray sphere in a green park lawn afternoon light background,2,green park lawn afternoon light
-images/mattegraysphere__science__001.png,A neutral matte gray sphere in a science lab bench background,1,science lab bench
-images/mattegraysphere__science__002.png,A neutral matte gray sphere in a science lab bench background,2,science lab bench
-images/mattegraysphere__garage__001.png,A neutral matte gray sphere in a garage workshop tools on pegboard background,1,garage workshop tools on pegboard
-images/mattegraysphere__garage__002.png,A neutral matte gray sphere in a garage workshop tools on pegboard background,2,garage workshop tools on pegboard
-images/mattegraysphere__hotel__001.png,A neutral matte gray sphere in a hotel room desk area background,1,hotel room desk area
-images/mattegraysphere__hotel__002.png,A neutral matte gray sphere in a hotel room desk area background,2,hotel room desk area
-images/mattegraysphere__bathroom__001.png,A neutral matte gray sphere in a bathroom vanity matte tiles background,1,bathroom vanity matte tiles
-images/mattegraysphere__bathroom__002.png,A neutral matte gray sphere in a bathroom vanity matte tiles background,2,bathroom vanity matte tiles
-images/mattegraysphere__classroom__001.png,A neutral matte gray sphere in a classroom row of desks daylight background,1,classroom row of desks daylight
-images/mattegraysphere__classroom__002.png,A neutral matte gray sphere in a classroom row of desks daylight background,2,classroom row of desks daylight
+file_name,prompt,object,background
+images/bookjacket__classroom__001.png,A neutral bookjacket in a classroom background,bookjacket,classroom
+images/bookjacket__classroom__002.png,A neutral bookjacket in a classroom background,bookjacket,classroom
+images/bookjacket__garage__002.png,A neutral bookjacket in a garage background,bookjacket,garage
+images/bookjacket__green__001.png,A neutral bookjacket in a green background,bookjacket,green
+images/bookjacket__green__002.png,A neutral bookjacket in a green background,bookjacket,green
+images/bookjacket__hotel__001.png,A neutral bookjacket in a hotel background,bookjacket,hotel
+images/bookjacket__hotel__002.png,A neutral bookjacket in a hotel background,bookjacket,hotel
+images/bookjacket__kitchen__002.png,A neutral bookjacket in a kitchen background,bookjacket,kitchen
+images/bookjacket__minimalist__001.png,A neutral bookjacket in a minimalist background,bookjacket,minimalist
+images/bookjacket__minimalist__002.png,A neutral bookjacket in a minimalist background,bookjacket,minimalist
+images/bookjacket__modern__001.png,A neutral bookjacket in a modern background,bookjacket,modern
+images/bookjacket__modern__002.png,A neutral bookjacket in a modern background,bookjacket,modern
+images/bookjacket__plain__001.png,A neutral bookjacket in a plain background,bookjacket,plain
+images/bookjacket__plain__002.png,A neutral bookjacket in a plain background,bookjacket,plain
+images/bookjacket__science__001.png,A neutral bookjacket in a science background,bookjacket,science
+images/ceramiccoffeemug__bathroom__001.png,A neutral ceramiccoffeemug in a bathroom background,ceramiccoffeemug,bathroom
+images/ceramiccoffeemug__classroom__001.png,A neutral ceramiccoffeemug in a classroom background,ceramiccoffeemug,classroom
+images/ceramiccoffeemug__classroom__002.png,A neutral ceramiccoffeemug in a classroom background,ceramiccoffeemug,classroom
+images/ceramiccoffeemug__garage__001.png,A neutral ceramiccoffeemug in a garage background,ceramiccoffeemug,garage
+images/ceramiccoffeemug__green__002.png,A neutral ceramiccoffeemug in a green background,ceramiccoffeemug,green
+images/ceramiccoffeemug__hotel__001.png,A neutral ceramiccoffeemug in a hotel background,ceramiccoffeemug,hotel
+images/ceramiccoffeemug__hotel__002.png,A neutral ceramiccoffeemug in a hotel background,ceramiccoffeemug,hotel
+images/ceramiccoffeemug__kitchen__001.png,A neutral ceramiccoffeemug in a kitchen background,ceramiccoffeemug,kitchen
+images/ceramiccoffeemug__kitchen__002.png,A neutral ceramiccoffeemug in a kitchen background,ceramiccoffeemug,kitchen
+images/ceramiccoffeemug__minimalist__001.png,A neutral ceramiccoffeemug in a minimalist background,ceramiccoffeemug,minimalist
+images/ceramiccoffeemug__minimalist__002.png,A neutral ceramiccoffeemug in a minimalist background,ceramiccoffeemug,minimalist
+images/ceramiccoffeemug__modern__001.png,A neutral ceramiccoffeemug in a modern background,ceramiccoffeemug,modern
+images/ceramiccoffeemug__modern__002.png,A neutral ceramiccoffeemug in a modern background,ceramiccoffeemug,modern
+images/ceramiccoffeemug__plain__001.png,A neutral ceramiccoffeemug in a plain background,ceramiccoffeemug,plain
+images/ceramiccoffeemug__plain__002.png,A neutral ceramiccoffeemug in a plain background,ceramiccoffeemug,plain
+images/ceramiccoffeemug__science__002.png,A neutral ceramiccoffeemug in a science background,ceramiccoffeemug,science
+images/grannysmith__bathroom__002.png,A neutral grannysmith in a bathroom background,grannysmith,bathroom
+images/grannysmith__classroom__001.png,A neutral grannysmith in a classroom background,grannysmith,classroom
+images/grannysmith__classroom__002.png,A neutral grannysmith in a classroom background,grannysmith,classroom
+images/grannysmith__garage__001.png,A neutral grannysmith in a garage background,grannysmith,garage
+images/grannysmith__green__002.png,A neutral grannysmith in a green background,grannysmith,green
+images/grannysmith__hotel__001.png,A neutral grannysmith in a hotel background,grannysmith,hotel
+images/grannysmith__hotel__002.png,A neutral grannysmith in a hotel background,grannysmith,hotel
+images/grannysmith__kitchen__002.png,A neutral grannysmith in a kitchen background,grannysmith,kitchen
+images/grannysmith__minimalist__001.png,A neutral grannysmith in a minimalist background,grannysmith,minimalist
+images/grannysmith__minimalist__002.png,A neutral grannysmith in a minimalist background,grannysmith,minimalist
+images/grannysmith__modern__001.png,A neutral grannysmith in a modern background,grannysmith,modern
+images/grannysmith__modern__002.png,A neutral grannysmith in a modern background,grannysmith,modern
+images/grannysmith__plain__001.png,A neutral grannysmith in a plain background,grannysmith,plain
+images/grannysmith__plain__002.png,A neutral grannysmith in a plain background,grannysmith,plain
+images/grannysmith__science__002.png,A neutral grannysmith in a science background,grannysmith,science
+images/notebookwithkraftcover__garage__001.png,A neutral notebookwithkraftcover in a garage background,notebookwithkraftcover,garage
+images/notebookwithkraftcover__green__001.png,A neutral notebookwithkraftcover in a green background,notebookwithkraftcover,green
+images/notebookwithkraftcover__green__002.png,A neutral notebookwithkraftcover in a green background,notebookwithkraftcover,green
+images/notebookwithkraftcover__hotel__001.png,A neutral notebookwithkraftcover in a hotel background,notebookwithkraftcover,hotel
+images/notebookwithkraftcover__hotel__002.png,A neutral notebookwithkraftcover in a hotel background,notebookwithkraftcover,hotel
+images/notebookwithkraftcover__kitchen__001.png,A neutral notebookwithkraftcover in a kitchen background,notebookwithkraftcover,kitchen
+images/notebookwithkraftcover__kitchen__002.png,A neutral notebookwithkraftcover in a kitchen background,notebookwithkraftcover,kitchen
+images/notebookwithkraftcover__minimalist__001.png,A neutral notebookwithkraftcover in a minimalist background,notebookwithkraftcover,minimalist
+images/notebookwithkraftcover__minimalist__002.png,A neutral notebookwithkraftcover in a minimalist background,notebookwithkraftcover,minimalist
+images/notebookwithkraftcover__modern__001.png,A neutral notebookwithkraftcover in a modern background,notebookwithkraftcover,modern
+images/notebookwithkraftcover__modern__002.png,A neutral notebookwithkraftcover in a modern background,notebookwithkraftcover,modern
+images/notebookwithkraftcover__plain__001.png,A neutral notebookwithkraftcover in a plain background,notebookwithkraftcover,plain
+images/notebookwithkraftcover__plain__002.png,A neutral notebookwithkraftcover in a plain background,notebookwithkraftcover,plain
+images/notebookwithkraftcover__science__001.png,A neutral notebookwithkraftcover in a science background,notebookwithkraftcover,science
+images/notebookwithkraftcover__science__002.png,A neutral notebookwithkraftcover in a science background,notebookwithkraftcover,science
+images/opaquemetalwaterbottle__bathroom__001.png,A neutral opaquemetalwaterbottle in a bathroom background,opaquemetalwaterbottle,bathroom
+images/opaquemetalwaterbottle__bathroom__002.png,A neutral opaquemetalwaterbottle in a bathroom background,opaquemetalwaterbottle,bathroom
+images/opaquemetalwaterbottle__classroom__001.png,A neutral opaquemetalwaterbottle in a classroom background,opaquemetalwaterbottle,classroom
+images/opaquemetalwaterbottle__classroom__002.png,A neutral opaquemetalwaterbottle in a classroom background,opaquemetalwaterbottle,classroom
+images/opaquemetalwaterbottle__garage__001.png,A neutral opaquemetalwaterbottle in a garage background,opaquemetalwaterbottle,garage
+images/opaquemetalwaterbottle__garage__002.png,A neutral opaquemetalwaterbottle in a garage background,opaquemetalwaterbottle,garage
+images/opaquemetalwaterbottle__green__001.png,A neutral opaquemetalwaterbottle in a green background,opaquemetalwaterbottle,green
+images/opaquemetalwaterbottle__green__002.png,A neutral opaquemetalwaterbottle in a green background,opaquemetalwaterbottle,green
+images/opaquemetalwaterbottle__hotel__001.png,A neutral opaquemetalwaterbottle in a hotel background,opaquemetalwaterbottle,hotel
+images/opaquemetalwaterbottle__hotel__002.png,A neutral opaquemetalwaterbottle in a hotel background,opaquemetalwaterbottle,hotel
+images/opaquemetalwaterbottle__kitchen__001.png,A neutral opaquemetalwaterbottle in a kitchen background,opaquemetalwaterbottle,kitchen
+images/opaquemetalwaterbottle__kitchen__002.png,A neutral opaquemetalwaterbottle in a kitchen background,opaquemetalwaterbottle,kitchen
+images/opaquemetalwaterbottle__minimalist__001.png,A neutral opaquemetalwaterbottle in a minimalist background,opaquemetalwaterbottle,minimalist
+images/opaquemetalwaterbottle__minimalist__002.png,A neutral opaquemetalwaterbottle in a minimalist background,opaquemetalwaterbottle,minimalist
+images/opaquemetalwaterbottle__modern__001.png,A neutral opaquemetalwaterbottle in a modern background,opaquemetalwaterbottle,modern
+images/opaquemetalwaterbottle__modern__002.png,A neutral opaquemetalwaterbottle in a modern background,opaquemetalwaterbottle,modern
+images/opaquemetalwaterbottle__plain__001.png,A neutral opaquemetalwaterbottle in a plain background,opaquemetalwaterbottle,plain
+images/opaquemetalwaterbottle__plain__002.png,A neutral opaquemetalwaterbottle in a plain background,opaquemetalwaterbottle,plain
+images/opaquemetalwaterbottle__science__001.png,A neutral opaquemetalwaterbottle in a science background,opaquemetalwaterbottle,science
+images/opaquemetalwaterbottle__science__002.png,A neutral opaquemetalwaterbottle in a science background,opaquemetalwaterbottle,science
+images/softcouchpillow__bathroom__001.png,A neutral softcouchpillow in a bathroom background,softcouchpillow,bathroom
+images/softcouchpillow__bathroom__002.png,A neutral softcouchpillow in a bathroom background,softcouchpillow,bathroom
+images/softcouchpillow__classroom__001.png,A neutral softcouchpillow in a classroom background,softcouchpillow,classroom
+images/softcouchpillow__classroom__002.png,A neutral softcouchpillow in a classroom background,softcouchpillow,classroom
+images/softcouchpillow__garage__001.png,A neutral softcouchpillow in a garage background,softcouchpillow,garage
+images/softcouchpillow__garage__002.png,A neutral softcouchpillow in a garage background,softcouchpillow,garage
+images/softcouchpillow__green__001.png,A neutral softcouchpillow in a green background,softcouchpillow,green
+images/softcouchpillow__green__002.png,A neutral softcouchpillow in a green background,softcouchpillow,green
+images/softcouchpillow__hotel__001.png,A neutral softcouchpillow in a hotel background,softcouchpillow,hotel
+images/softcouchpillow__hotel__002.png,A neutral softcouchpillow in a hotel background,softcouchpillow,hotel
+images/softcouchpillow__kitchen__001.png,A neutral softcouchpillow in a kitchen background,softcouchpillow,kitchen
+images/softcouchpillow__kitchen__002.png,A neutral softcouchpillow in a kitchen background,softcouchpillow,kitchen
+images/softcouchpillow__minimalist__001.png,A neutral softcouchpillow in a minimalist background,softcouchpillow,minimalist
+images/softcouchpillow__minimalist__002.png,A neutral softcouchpillow in a minimalist background,softcouchpillow,minimalist
+images/softcouchpillow__modern__001.png,A neutral softcouchpillow in a modern background,softcouchpillow,modern
+images/softcouchpillow__modern__002.png,A neutral softcouchpillow in a modern background,softcouchpillow,modern
+images/softcouchpillow__plain__001.png,A neutral softcouchpillow in a plain background,softcouchpillow,plain
+images/softcouchpillow__plain__002.png,A neutral softcouchpillow in a plain background,softcouchpillow,plain
+images/softcouchpillow__science__001.png,A neutral softcouchpillow in a science background,softcouchpillow,science
+images/softcouchpillow__science__002.png,A neutral softcouchpillow in a science background,softcouchpillow,science
+images/tablelampwithshadeoff__bathroom__001.png,A neutral tablelampwithshadeoff in a bathroom background,tablelampwithshadeoff,bathroom
+images/tablelampwithshadeoff__bathroom__002.png,A neutral tablelampwithshadeoff in a bathroom background,tablelampwithshadeoff,bathroom
+images/tablelampwithshadeoff__classroom__001.png,A neutral tablelampwithshadeoff in a classroom background,tablelampwithshadeoff,classroom
+images/tablelampwithshadeoff__classroom__002.png,A neutral tablelampwithshadeoff in a classroom background,tablelampwithshadeoff,classroom
+images/tablelampwithshadeoff__garage__001.png,A neutral tablelampwithshadeoff in a garage background,tablelampwithshadeoff,garage
+images/tablelampwithshadeoff__garage__002.png,A neutral tablelampwithshadeoff in a garage background,tablelampwithshadeoff,garage
+images/tablelampwithshadeoff__green__001.png,A neutral tablelampwithshadeoff in a green background,tablelampwithshadeoff,green
+images/tablelampwithshadeoff__green__002.png,A neutral tablelampwithshadeoff in a green background,tablelampwithshadeoff,green
+images/tablelampwithshadeoff__hotel__001.png,A neutral tablelampwithshadeoff in a hotel background,tablelampwithshadeoff,hotel
+images/tablelampwithshadeoff__hotel__002.png,A neutral tablelampwithshadeoff in a hotel background,tablelampwithshadeoff,hotel
+images/tablelampwithshadeoff__kitchen__001.png,A neutral tablelampwithshadeoff in a kitchen background,tablelampwithshadeoff,kitchen
+images/tablelampwithshadeoff__kitchen__002.png,A neutral tablelampwithshadeoff in a kitchen background,tablelampwithshadeoff,kitchen
+images/tablelampwithshadeoff__minimalist__001.png,A neutral tablelampwithshadeoff in a minimalist background,tablelampwithshadeoff,minimalist
+images/tablelampwithshadeoff__minimalist__002.png,A neutral tablelampwithshadeoff in a minimalist background,tablelampwithshadeoff,minimalist
+images/tablelampwithshadeoff__modern__001.png,A neutral tablelampwithshadeoff in a modern background,tablelampwithshadeoff,modern
+images/tablelampwithshadeoff__modern__002.png,A neutral tablelampwithshadeoff in a modern background,tablelampwithshadeoff,modern
+images/tablelampwithshadeoff__plain__001.png,A neutral tablelampwithshadeoff in a plain background,tablelampwithshadeoff,plain
+images/tablelampwithshadeoff__plain__002.png,A neutral tablelampwithshadeoff in a plain background,tablelampwithshadeoff,plain
+images/tablelampwithshadeoff__science__001.png,A neutral tablelampwithshadeoff in a science background,tablelampwithshadeoff,science
+images/tablelampwithshadeoff__science__002.png,A neutral tablelampwithshadeoff in a science background,tablelampwithshadeoff,science
