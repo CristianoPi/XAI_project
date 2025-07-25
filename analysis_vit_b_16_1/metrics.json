@@ -1,14 +1,14 @@
 {
   "total_images": 121,
-  "mean_score": 0.4050217126578339,
+  "mean_score": 0.403832586101264,
   "median_score": 0.4,
-  "stdev_score": 0.2166588199707949,
-  "percent_incoherent": 27.272727272727273,
+  "stdev_score": 0.21791319184659846,
+  "percent_incoherent": 28.925619834710744,
   "object_stats": {
     "bookjacket": {
       "total": 15,
-      "incoherent": 8,
-      "percent_incoherent": 53.333333333333336
+      "incoherent": 9,
+      "percent_incoherent": 60.0
     },
     "ceramiccoffeemug": {
       "total": 16,
@@ -27,8 +27,8 @@
     },
     "opaquemetalwaterbottle": {
       "total": 20,
-      "incoherent": 5,
-      "percent_incoherent": 25.0
+      "incoherent": 6,
+      "percent_incoherent": 30.0
     },
     "softcouchpillow": {
       "total": 20,
@@ -54,8 +54,8 @@
     },
     "green": {
       "total": 12,
-      "incoherent": 2,
-      "percent_incoherent": 16.666666666666668
+      "incoherent": 3,
+      "percent_incoherent": 25.0
     },
     "hotel": {
       "total": 14,
@@ -64,8 +64,8 @@
     },
     "kitchen": {
       "total": 12,
-      "incoherent": 2,
-      "percent_incoherent": 16.666666666666668
+      "incoherent": 1,
+      "percent_incoherent": 8.333333333333334
     },
     "minimalist": {
       "total": 14,
@@ -79,8 +79,8 @@
     },
     "plain": {
       "total": 14,
-      "incoherent": 3,
-      "percent_incoherent": 21.428571428571427
+      "incoherent": 4,
+      "percent_incoherent": 28.571428571428573
     },
     "science": {
       "total": 11,
@@ -89,8 +89,8 @@
     },
     "bathroom": {
       "total": 8,
-      "incoherent": 2,
-      "percent_incoherent": 25.0
+      "incoherent": 3,
+      "percent_incoherent": 37.5
     }
   }
 }

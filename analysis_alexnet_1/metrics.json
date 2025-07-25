@@ -1,9 +1,9 @@
 {
   "total_images": 121,
-  "mean_score": 0.30554787914851483,
-  "median_score": 0.3339119851589203,
-  "stdev_score": 0.20999224405177547,
-  "percent_incoherent": 48.760330578512395,
+  "mean_score": 0.31731652892561985,
+  "median_score": 0.4,
+  "stdev_score": 0.19546149177809152,
+  "percent_incoherent": 44.62809917355372,
   "object_stats": {
     "bookjacket": {
       "total": 15,
@@ -12,8 +12,8 @@
     },
     "ceramiccoffeemug": {
       "total": 16,
-      "incoherent": 5,
-      "percent_incoherent": 31.25
+      "incoherent": 4,
+      "percent_incoherent": 25.0
     },
     "grannysmith": {
       "total": 15,
@@ -27,13 +27,13 @@
     },
     "opaquemetalwaterbottle": {
       "total": 20,
-      "incoherent": 8,
-      "percent_incoherent": 40.0
+      "incoherent": 5,
+      "percent_incoherent": 25.0
     },
     "softcouchpillow": {
       "total": 20,
-      "incoherent": 11,
-      "percent_incoherent": 55.0
+      "incoherent": 10,
+      "percent_incoherent": 50.0
     },
     "tablelampwithshadeoff": {
       "total": 20,
@@ -59,18 +59,18 @@
     },
     "hotel": {
       "total": 14,
-      "incoherent": 7,
-      "percent_incoherent": 50.0
+      "incoherent": 4,
+      "percent_incoherent": 28.571428571428573
     },
     "kitchen": {
       "total": 12,
-      "incoherent": 5,
-      "percent_incoherent": 41.666666666666664
+      "incoherent": 3,
+      "percent_incoherent": 25.0
     },
     "minimalist": {
       "total": 14,
-      "incoherent": 5,
-      "percent_incoherent": 35.714285714285715
+      "incoherent": 4,
+      "percent_incoherent": 28.571428571428573
     },
     "modern": {
       "total": 14,
@@ -89,8 +89,8 @@
     },
     "bathroom": {
       "total": 8,
-      "incoherent": 4,
-      "percent_incoherent": 50.0
+      "incoherent": 5,
+      "percent_incoherent": 62.5
     }
   }
 }

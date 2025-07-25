@@ -1,10 +1,10 @@
 ## 1 Aggregate statistics
 - **Total Images**: 121
 - **Mean Score**: 0.44
-- **Median Score**: 0.40
+- **Median Score**: 0.4
 - **Standard Deviation of Scores**: 0.27
-- **Percentage of Incoherent Images**: 31.40%
-  
+- **Percentage of Incoherent Images**: 31.4%
+
 ### Object Incoherence Statistics
 - **Bookjacket**: 80% incoherent (12 out of 15)
 - **Ceramic Coffee Mug**: 6.25% incoherent (1 out of 16)
@@ -27,14 +27,14 @@
 - **Bathroom**: 37.5% incoherent (3 out of 8)
 
 ## 2 Recurring error patterns
-Frequent error types include:
-- **Misclassification of Objects**: The model often fails to identify the main object in the image, leading to irrelevant predictions (e.g., predicting items like "envelope" or "screwdriver" instead of the intended object).
-- **Contextual Misalignment**: The model struggles with context, often failing to associate the object with its appropriate background (e.g., a bookjacket in a classroom being misclassified as unrelated items).
-- **High Incoherence Rates for Specific Classes**: Certain objects, like "bookjacket" and "notebook with kraft cover," show particularly high incoherence rates, indicating a potential bias in how these classes are represented in the training data.
+The model **resnet18** frequently misclassifies items, particularly in contexts that do not align with the prompt. Common error types include:
+- **Misalignment with Context**: Items like bookjackets and notebooks are often confused with unrelated objects (e.g., tools, kitchen items).
+- **Over-reliance on Background**: The model tends to focus on the background context rather than the primary object, leading to incoherent predictions.
+- **Spurious Correlations**: Certain objects are misclassified due to their association with common contexts (e.g., bathroom items being misidentified in kitchen settings).
 
 ## 3 Detailed list of incoherent images
-| File Name | Prompt Summary | Three Worst Labels | Explanation |
-|-----------|----------------|--------------------|-------------|
+| File Name | Prompt Summary | Worst Labels | Explanation |
+|-----------|----------------|--------------|-------------|
 | images/bookjacket__classroom__001.png | A neutral bookjacket in a classroom background | envelope, letter opener, Band Aid | Predictions do not align with the prompt about a bookjacket in a classroom. |
 | images/bookjacket__classroom__002.png | A neutral bookjacket in a classroom background | ballpoint, spatula, letter opener | Predictions do not align with the prompt; items are unrelated to a bookjacket or classroom. |
 | images/bookjacket__garage__002.png | A neutral bookjacket in a garage background | hammer, window screen, fountain pen | Predictions do not align with the prompt of a bookjacket in a garage. |
@@ -48,13 +48,13 @@ Frequent error types include:
 | images/bookjacket__plain__001.png | A neutral bookjacket in a plain background | switch, envelope, perfume | Predictions do not align with the concept of a neutral bookjacket. |
 | images/bookjacket__plain__002.png | A neutral bookjacket in a plain background | studio couch, lampshade, binder | Predictions are unrelated to a bookjacket or neutral background. |
 | images/ceramiccoffeemug__kitchen__001.png | A neutral ceramiccoffeemug in a kitchen background | plate rack, china cabinet, mixing bowl | Predictions focus on kitchen items but do not include a coffee mug. |
-| images/grannysmith__bathroom__002.png | A neutral grannysmith in a bathroom background | washbasin, bathtub, shower curtain | Predictions focus on bathroom objects, not the grannysmith apple. |
+| images/grannysmith__bathroom__002.png | A neutral grannysmith in a bathroom background | washbasin, bathtub, tub | Predictions focus on bathroom objects, not the grannysmith apple. |
 | images/grannysmith__garage__001.png | A neutral grannysmith in a garage background | hammer, matchstick, screwdriver | Predictions are unrelated to a grannysmith or garage context. |
 | images/grannysmith__green__002.png | A neutral grannysmith in a green background | croquet ball, golf ball, baseball | Predictions are unrelated to a Granny Smith apple or green background. |
 | images/grannysmith__minimalist__002.png | A neutral grannysmith in a minimalist background | studio couch, home theater, dining table | Predictions do not align with the prompt; no mention of a grannysmith apple. |
 | images/grannysmith__modern__001.png | A neutral grannysmith in a modern background | lampshade, wardrobe, table lamp | Predictions are unrelated to a neutral Granny Smith apple in a modern background. |
 | images/grannysmith__modern__002.png | A neutral grannysmith in a modern background | wall clock, bottlecap, puck | Predictions do not align with the prompt; no relevant items identified. |
-| images/grannysmith__science__002.png | A neutral grannysmith in a science background | menu, abacus, website | Predictions are unrelated to the prompt about a grannysmith in a science context. |
+| images/grannysmith__science__002.png | A neutral grannysmith in a science background | menu, abacus, web site | Predictions are unrelated to the prompt about a grannysmith in a science context. |
 | images/notebookwithkraftcover__garage__001.png | A neutral notebookwithkraftcover in a garage background | hammer, carpenter's kit, screwdriver | Predictions focus on tools rather than the notebook and garage context. |
 | images/notebookwithkraftcover__green__001.png | A neutral notebookwithkraftcover in a green background | binder, envelope, rubber eraser | Predictions do not align with the prompt's description of a notebook. |
 | images/notebookwithkraftcover__green__002.png | A neutral notebookwithkraftcover in a green background | pencil sharpener, letter opener, quill | Predictions do not align with the prompt about a notebook. |
@@ -75,78 +75,84 @@ Frequent error types include:
 | images/tablelampwithshadeoff__garage__001.png | A neutral tablelampwithshadeoff in a garage background | screwdriver, beer bottle, wine bottle | Predictions do not align with the prompt; no table lamp detected. |
 
 ## 4 Target class logit analysis (Full Details)
+
 ### Class `pillow` (ImageNet #721)
-- Average logit: 3.08 (std: 4.88)
-- Top‑5 activations:
+- **Average Logit**: 3.08 (std: 4.88)
+- **Top-5 Activations**:
   - `dataset/images/softcouchpillow__modern__002.png` → logit=18.68
   - `dataset/images/softcouchpillow__kitchen__002.png` → logit=16.95
   - `dataset/images/softcouchpillow__green__002.png` → logit=16.95
   - `dataset/images/softcouchpillow__garage__002.png` → logit=16.87
   - `dataset/images/softcouchpillow__plain__001.png` → logit=16.65
+- **Comment**: High logits for soft couch pillows suggest a strong association with specific contexts, potentially indicating over-reliance on context rather than object identity.
 
 ### Class `toilet seat` (ImageNet #861)
-- Average logit: 2.92 (std: 1.75)
-- Top‑5 activations:
+- **Average Logit**: 2.92 (std: 1.75)
+- **Top-5 Activations**:
   - `dataset/images/ceramiccoffeemug__bathroom__001.png` → logit=10.63
   - `dataset/images/opaquemetalwaterbottle__bathroom__001.png` → logit=8.09
   - `dataset/images/grannysmith__bathroom__002.png` → logit=7.67
   - `dataset/images/tablelampwithshadeoff__bathroom__002.png` → logit=7.05
   - `dataset/images/softcouchpillow__minimalist__001.png` → logit=7.02
+- **Comment**: The model appears to confuse bathroom-related items with toilet seats, indicating potential biases towards common bathroom contexts.
 
 ### Class `park bench` (ImageNet #703)
-- Average logit: -0.09 (std: 1.82)
-- Top‑5 activations:
+- **Average Logit**: -0.09 (std: 1.82)
+- **Top-5 Activations**:
   - `dataset/images/tablelampwithshadeoff__classroom__002.png` → logit=6.74
   - `dataset/images/softcouchpillow__garage__001.png` → logit=5.48
   - `dataset/images/softcouchpillow__modern__001.png` → logit=4.49
   - `dataset/images/grannysmith__classroom__001.png` → logit=4.16
   - `dataset/images/softcouchpillow__science__001.png` → logit=3.91
+- **Comment**: The low average logit suggests a lack of confidence in identifying park benches, potentially due to insufficient training data or contextual misalignment.
 
 ### Class `laptop` (ImageNet #620)
-- Average logit: 3.87 (std: 2.45)
-- Top‑5 activations:
+- **Average Logit**: 3.87 (std: 2.45)
+- **Top-5 Activations**:
   - `dataset/images/bookjacket__science__001.png` → logit=10.91
   - `dataset/images/notebookwithkraftcover__kitchen__001.png` → logit=9.69
   - `dataset/images/bookjacket__green__001.png` → logit=9.45
   - `dataset/images/bookjacket__kitchen__002.png` → logit=9.02
   - `dataset/images/notebookwithkraftcover__science__001.png` → logit=8.59
+- **Comment**: The model shows a tendency to associate laptops with bookjackets and notebooks, indicating potential biases in object recognition based on context.
 
 ### Class `fox squirrel` (ImageNet #335)
-- Average logit: -2.28 (std: 1.53)
-- Top‑5 activations:
+- **Average Logit**: -2.28 (std: 1.53)
+- **Top-5 Activations**:
   - `dataset/images/grannysmith__green__002.png` → logit=2.02
   - `dataset/images/opaquemetalwaterbottle__green__002.png` → logit=1.91
   - `dataset/images/ceramiccoffeemug__green__002.png` → logit=1.35
   - `dataset/images/tablelampwithshadeoff__kitchen__001.png` → logit=0.98
   - `dataset/images/tablelampwithshadeoff__green__002.png` → logit=0.11
+- **Comment**: The negative average logit indicates a significant misclassification of fox squirrels, likely due to a lack of relevant training examples or contextual confusion.
 
 ### Class `tennis ball` (ImageNet #852)
-- Average logit: 2.46 (std: 1.74)
-- Top‑5 activations:
+- **Average Logit**: 2.46 (std: 1.74)
+- **Top-5 Activations**:
   - `dataset/images/grannysmith__plain__002.png` → logit=8.10
   - `dataset/images/opaquemetalwaterbottle__green__002.png` → logit=6.96
   - `dataset/images/grannysmith__green__002.png` → logit=6.78
   - `dataset/images/grannysmith__plain__001.png` → logit=6.67
   - `dataset/images/grannysmith__classroom__002.png` → logit=6.25
+- **Comment**: The model's confusion between tennis balls and Granny Smith apples suggests a bias towards color and shape similarities rather than accurate object identification.
 
 ## 5 Main biases of the model
-1. **Object Recognition Bias**: The model shows a tendency to misidentify common objects, particularly in complex contexts, such as predicting "envelope" instead of "bookjacket."
-   - Example: In multiple instances, a bookjacket was misclassified as unrelated items like "letter opener" or "cleaver."
+1. **Contextual Bias**: The model often misclassifies objects based on the background context rather than the object itself, leading to incoherent predictions.
+   - *Example*: A bookjacket in a kitchen is confused with kitchen items.
+   
+2. **Over-reliance on Common Objects**: The model tends to favor common objects in specific contexts, leading to misclassifications.
+   - *Example*: Bathroom items are frequently misclassified as toilet seats.
 
-2. **Contextual Misalignment**: The model struggles with associating objects with their appropriate environments, leading to incoherent predictions.
-   - Example: A "grannysmith" apple in a bathroom context was predicted as "washbasin" or "bathtub," showing a lack of contextual understanding.
-
-3. **High Incoherence Rates for Specific Classes**: Certain object classes, like "bookjacket" and "notebook with kraft cover," exhibit particularly high incoherence rates, indicating potential training data biases.
-   - Example: The "notebook with kraft cover" was frequently misclassified across various backgrounds, suggesting a lack of robust representation in the training data.
+3. **Spurious Correlations**: The model shows a tendency to associate certain objects with others based on superficial features rather than their actual characteristics.
+   - *Example*: Granny Smith apples are confused with tennis balls due to color similarity.
 
 ## 6 Overall verdict
-- **Strengths**:
-  - Capable of identifying certain objects accurately in simple contexts.
-  - Shows some understanding of common household items.
+### Strengths
+- **Good performance on common objects**: The model performs well with frequently encountered items.
+- **High accuracy in familiar contexts**: When the context aligns with the object, predictions are generally accurate.
 
-- **Weaknesses**:
-  - High incoherence rates, particularly for specific classes.
-  - Frequent misclassification and contextual errors.
-  - Limited ability to generalize across different contexts.
+### Weaknesses
+- **Frequent misclassifications in diverse contexts**: The model struggles with diverse backgrounds and less common objects.
+- **High incoherence rate**: A significant percentage of predictions are incoherent, indicating a need for improvement in contextual understanding.
 
-**Final Reliability Rating**: 2/5
+### Reliability Rating: 2/5
