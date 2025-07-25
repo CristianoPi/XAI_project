@@ -1,34 +1,34 @@
 {
   "total_images": 121,
-  "mean_score": 0.47603305785123967,
-  "median_score": 0.4,
-  "stdev_score": 0.09708545557413824,
-  "percent_incoherent": 61.98347107438016,
+  "mean_score": 0.30554787914851483,
+  "median_score": 0.3339119851589203,
+  "stdev_score": 0.20999224405177547,
+  "percent_incoherent": 48.760330578512395,
   "object_stats": {
     "bookjacket": {
       "total": 15,
-      "incoherent": 10,
-      "percent_incoherent": 66.66666666666667
+      "incoherent": 12,
+      "percent_incoherent": 80.0
     },
     "ceramiccoffeemug": {
       "total": 16,
-      "incoherent": 1,
-      "percent_incoherent": 6.25
+      "incoherent": 5,
+      "percent_incoherent": 31.25
     },
     "grannysmith": {
       "total": 15,
-      "incoherent": 8,
-      "percent_incoherent": 53.333333333333336
+      "incoherent": 11,
+      "percent_incoherent": 73.33333333333333
     },
     "notebookwithkraftcover": {
       "total": 15,
-      "incoherent": 15,
-      "percent_incoherent": 100.0
+      "incoherent": 9,
+      "percent_incoherent": 60.0
     },
     "opaquemetalwaterbottle": {
       "total": 20,
-      "incoherent": 10,
-      "percent_incoherent": 50.0
+      "incoherent": 8,
+      "percent_incoherent": 40.0
     },
     "softcouchpillow": {
       "total": 20,
@@ -37,15 +37,15 @@
     },
     "tablelampwithshadeoff": {
       "total": 20,
-      "incoherent": 20,
-      "percent_incoherent": 100.0
+      "incoherent": 3,
+      "percent_incoherent": 15.0
     }
   },
   "context_stats": {
     "classroom": {
       "total": 12,
-      "incoherent": 9,
-      "percent_incoherent": 75.0
+      "incoherent": 7,
+      "percent_incoherent": 58.333333333333336
     },
     "garage": {
       "total": 10,
@@ -54,43 +54,43 @@
     },
     "green": {
       "total": 12,
-      "incoherent": 8,
-      "percent_incoherent": 66.66666666666667
+      "incoherent": 4,
+      "percent_incoherent": 33.333333333333336
     },
     "hotel": {
-      "total": 14,
-      "incoherent": 13,
-      "percent_incoherent": 92.85714285714286
-    },
-    "kitchen": {
-      "total": 12,
-      "incoherent": 7,
-      "percent_incoherent": 58.333333333333336
-    },
-    "minimalist": {
-      "total": 14,
-      "incoherent": 4,
-      "percent_incoherent": 28.571428571428573
-    },
-    "modern": {
       "total": 14,
       "incoherent": 7,
       "percent_incoherent": 50.0
     },
+    "kitchen": {
+      "total": 12,
+      "incoherent": 5,
+      "percent_incoherent": 41.666666666666664
+    },
+    "minimalist": {
+      "total": 14,
+      "incoherent": 5,
+      "percent_incoherent": 35.714285714285715
+    },
+    "modern": {
+      "total": 14,
+      "incoherent": 8,
+      "percent_incoherent": 57.142857142857146
+    },
     "plain": {
       "total": 14,
-      "incoherent": 4,
-      "percent_incoherent": 28.571428571428573
+      "incoherent": 5,
+      "percent_incoherent": 35.714285714285715
     },
     "science": {
       "total": 11,
-      "incoherent": 7,
-      "percent_incoherent": 63.63636363636363
+      "incoherent": 5,
+      "percent_incoherent": 45.45454545454545
     },
     "bathroom": {
       "total": 8,
-      "incoherent": 7,
-      "percent_incoherent": 87.5
+      "incoherent": 4,
+      "percent_incoherent": 50.0
     }
   }
 }

@@ -1,121 +1,121 @@
-{"id": 1, "score": 0.4, "explanation": "Predictions suggest a classroom setting, but lack specific references to a bookjacket."}
-{"id": 2, "score": 0.4, "explanation": "The predictions suggest a classroom setting, but the concept of a neutral bookjacket is not clearly represented."}
-{"id": 3, "score": 0.4, "explanation": "The predictions suggest a bookjacket, but the garage background is not clearly represented."}
-{"id": 4, "score": 0.4, "explanation": "Predictions suggest a book cover with a green background, aligning with the prompt's description."}
-{"id": 5, "score": 0.4, "explanation": "Predictions include book-related items, but lack specific alignment with 'neutral' and 'green background'."}
-{"id": 6, "score": 0.4, "explanation": "The predictions suggest a hotel setting, but lack specific references to a bookjacket."}
-{"id": 7, "score": 0.4, "explanation": "Predictions suggest hotel elements but lack clear representation of a bookjacket."}
-{"id": 8, "score": 0.4, "explanation": "Predictions include kitchen items, suggesting relevance to the background, but lack direct reference to a bookjacket."}
-{"id": 9, "score": 0.6, "explanation": "Predictions suggest a simple design, aligning with the minimalist theme of the prompt."}
-{"id": 10, "score": 0.6, "explanation": "Predictions suggest a simple design, aligning with the minimalist theme of the prompt."}
-{"id": 11, "score": 0.4, "explanation": "Predictions include modern design elements, but lack specific references to a bookjacket."}
-{"id": 12, "score": 0.4, "explanation": "Predictions suggest a modern design, but lack specific references to a bookjacket."}
-{"id": 13, "score": 0.6, "explanation": "Predictions suggest a book cover with a simple design, aligning with the prompt's description."}
-{"id": 14, "score": 0.6, "explanation": "Predictions suggest a book cover with neutral colors, aligning with the prompt's description."}
-{"id": 15, "score": 0.6, "explanation": "Predictions include neutral colors and scientific elements, aligning with the prompt's theme."}
-{"id": 16, "score": 0.6, "explanation": "The predictions likely include a coffee mug, aligning with the prompt's description."}
-{"id": 17, "score": 0.6, "explanation": "The model identified a coffee mug, but the classroom background was not explicitly recognized."}
-{"id": 18, "score": 0.6, "explanation": "The model identified a coffee mug, but the classroom background may not be accurately represented."}
-{"id": 19, "score": 0.6, "explanation": "The predictions include a coffee mug, aligning with the prompt's description."}
-{"id": 20, "score": 0.6, "explanation": "The model identified a coffee mug, aligning with the prompt's description."}
-{"id": 21, "score": 0.6, "explanation": "The predictions include a coffee mug, aligning with the prompt's description."}
-{"id": 22, "score": 0.4, "explanation": "The predictions suggest a coffee mug, but hotel context is unclear."}
-{"id": 23, "score": 0.6, "explanation": "The predictions likely include a coffee mug, aligning with the prompt's description."}
-{"id": 24, "score": 0.6, "explanation": "The predictions likely include a coffee mug and kitchen elements, aligning with the prompt."}
-{"id": 25, "score": 0.6, "explanation": "The predictions include a coffee mug, aligning with the prompt's description."}
-{"id": 26, "score": 0.6, "explanation": "The predictions include 'ceramic mug' and 'minimalist background', aligning well with the prompt."}
-{"id": 27, "score": 0.6, "explanation": "Predictions include 'ceramic mug' and 'modern background', aligning with the prompt's description."}
-{"id": 28, "score": 0.6, "explanation": "The predictions include a coffee mug, aligning with the prompt's description."}
-{"id": 29, "score": 0.6, "explanation": "The predictions include 'ceramic mug' and 'plain background', aligning well with the prompt."}
-{"id": 30, "score": 0.6, "explanation": "The predictions likely include 'ceramic mug' and 'plain background', aligning with the prompt."}
-{"id": 31, "score": 0.6, "explanation": "The predictions likely include a coffee mug and science-related items, aligning with the prompt."}
-{"id": 32, "score": 0.4, "explanation": "The model identified a grannysmith apple but struggled with the bathroom context."}
-{"id": 33, "score": 0.4, "explanation": "The model identifies a grannysmith apple in a classroom setting, aligning with the prompt."}
-{"id": 34, "score": 0.4, "explanation": "The predictions include a grannysmith apple, but the classroom background is not clearly identified."}
-{"id": 35, "score": 0.4, "explanation": "The predictions include a grannysmith apple, but the garage background is not clearly identified."}
-{"id": 36, "score": 0.6, "explanation": "Predictions include green apple and background elements, aligning with the prompt's description."}
-{"id": 37, "score": 0.4, "explanation": "The model identified a grannysmith apple but struggled with the hotel context."}
-{"id": 38, "score": 0.4, "explanation": "The predictions suggest a fruit in a setting, but lack specific details about the hotel background."}
-{"id": 39, "score": 0.6, "explanation": "The model likely identified a grannysmith apple in a kitchen setting, aligning with the prompt."}
-{"id": 40, "score": 0.6, "explanation": "The output likely includes a grannysmith apple in a simple setting, aligning with the prompt."}
-{"id": 41, "score": 0.6, "explanation": "The output likely includes a grannysmith apple in a simple setting, aligning with the prompt."}
-{"id": 42, "score": 0.4, "explanation": "The predictions suggest a focus on apples, but the modern background aspect is unclear."}
-{"id": 43, "score": 0.6, "explanation": "The output likely includes a grannysmith apple in a modern setting, aligning with the prompt."}
-{"id": 44, "score": 0.6, "explanation": "The model identified a grannysmith apple, but background details are unclear."}
-{"id": 45, "score": 0.6, "explanation": "The model identifies a grannysmith apple, but background details are unclear."}
-{"id": 46, "score": 0.4, "explanation": "The predictions suggest a connection to science and a neutral color, aligning with the prompt."}
-{"id": 47, "score": 0.4, "explanation": "The model identifies a notebook but lacks specific details about the cover and background."}
-{"id": 48, "score": 0.4, "explanation": "The model identifies a notebook but lacks specific details about the cover and background."}
-{"id": 49, "score": 0.4, "explanation": "The predictions suggest a neutral object, but the specific details of the notebook and background are not clearly identified."}
-{"id": 50, "score": 0.4, "explanation": "The model identified elements of a notebook but lacked clarity on the hotel background."}
-{"id": 51, "score": 0.4, "explanation": "The model identifies elements related to a notebook but lacks clear hotel context."}
-{"id": 52, "score": 0.4, "explanation": "The predictions suggest a notebook, but the kitchen background is not clearly represented."}
-{"id": 53, "score": 0.4, "explanation": "The predictions suggest a notebook, but the kitchen background is not clearly represented."}
-{"id": 54, "score": 0.4, "explanation": "The predictions suggest a neutral object, but lack specific details about the notebook and background."}
-{"id": 55, "score": 0.4, "explanation": "The predictions suggest a neutral object, but lack specific details about the notebook and background."}
-{"id": 56, "score": 0.4, "explanation": "The predictions suggest a neutral object, but the modern background is not clearly represented."}
-{"id": 57, "score": 0.4, "explanation": "The predictions suggest a modern aesthetic, but the specific details of the notebook are unclear."}
-{"id": 58, "score": 0.4, "explanation": "The predictions suggest a neutral object, but lack specific details about the notebook and its cover."}
-{"id": 59, "score": 0.4, "explanation": "The model identifies a neutral notebook, but lacks specific details about the kraft cover and plain background."}
-{"id": 60, "score": 0.4, "explanation": "The output suggests a neutral notebook, but lacks clear science context."}
-{"id": 61, "score": 0.4, "explanation": "The output suggests a neutral notebook, but lacks specific science-related elements."}
-{"id": 62, "score": 0.4, "explanation": "The model identified a water bottle in a bathroom setting, aligning with the prompt's description."}
-{"id": 63, "score": 0.4, "explanation": "The model identified a water bottle but lacked specificity about color and material."}
-{"id": 64, "score": 0.4, "explanation": "The model identifies a water bottle in a classroom setting, aligning with the prompt's description."}
-{"id": 65, "score": 0.4, "explanation": "The model identifies a water bottle in a classroom setting, aligning with the prompt's description."}
-{"id": 66, "score": 0.4, "explanation": "The model identifies a water bottle in a garage setting, aligning with the prompt's description."}
-{"id": 67, "score": 0.4, "explanation": "The model identifies a water bottle in a garage setting, aligning with the prompt's description."}
-{"id": 68, "score": 0.6, "explanation": "The model identifies a water bottle on a green background, aligning with the prompt's description."}
-{"id": 69, "score": 0.6, "explanation": "The model identifies a water bottle in a green background, aligning with the prompt's description."}
-{"id": 70, "score": 0.4, "explanation": "The model identifies a water bottle in a hotel setting, aligning with the prompt's description."}
-{"id": 71, "score": 0.4, "explanation": "The model identifies a water bottle in a hotel setting, aligning with the prompt's description."}
-{"id": 72, "score": 0.6, "explanation": "The model identifies a water bottle in a kitchen setting, aligning with the prompt's description."}
-{"id": 73, "score": 0.6, "explanation": "The model identifies a water bottle in a kitchen setting, aligning with the prompt's description."}
-{"id": 74, "score": 0.6, "explanation": "The predictions align with a neutral water bottle in a minimalist setting."}
-{"id": 75, "score": 0.6, "explanation": "The model identifies a water bottle in a minimalist setting, aligning with the prompt's description."}
-{"id": 76, "score": 0.6, "explanation": "The model identifies a water bottle in a modern setting, aligning with the prompt's description."}
-{"id": 77, "score": 0.6, "explanation": "The model identifies a water bottle in a modern setting, aligning with the prompt's description."}
-{"id": 78, "score": 0.6, "explanation": "The model identifies a water bottle, aligning with the prompt's description."}
-{"id": 79, "score": 0.6, "explanation": "The model identifies a water bottle, aligning with the prompt's description."}
-{"id": 80, "score": 0.4, "explanation": "The predictions include elements of a water bottle and science context, but lack clarity on color and material."}
-{"id": 81, "score": 0.4, "explanation": "Predictions include water bottle and science elements, but lack specific alignment with 'opaque metal'."}
-{"id": 82, "score": 0.4, "explanation": "The output suggests a soft object in a bathroom, aligning with the prompt's description."}
-{"id": 83, "score": 0.4, "explanation": "Predictions include soft objects but lack specific bathroom context."}
-{"id": 84, "score": 0.6, "explanation": "The model identified a soft object in a classroom setting, aligning with the prompt's description."}
-{"id": 85, "score": 0.4, "explanation": "The model identifies a soft object in a classroom setting, aligning with the prompt's description."}
-{"id": 86, "score": 0.4, "explanation": "The model identified a soft object but misinterpreted the background context."}
-{"id": 87, "score": 0.4, "explanation": "Predictions include soft objects, but garage context is unclear."}
-{"id": 88, "score": 0.4, "explanation": "Predictions include soft objects, but not specifically a pillow or green background."}
-{"id": 89, "score": 0.4, "explanation": "Predictions include soft objects, but not specifically a pillow or green background."}
-{"id": 90, "score": 0.4, "explanation": "Predictions suggest a soft object in a hotel setting, aligning with the prompt's description."}
-{"id": 91, "score": 0.4, "explanation": "Predictions include soft objects and hotel-related items, aligning with the prompt's description."}
-{"id": 92, "score": 0.4, "explanation": "Predictions include soft objects, but kitchen context is unclear."}
-{"id": 93, "score": 0.4, "explanation": "Predictions include soft objects, but kitchen context is unclear."}
-{"id": 94, "score": 0.6, "explanation": "Predictions include soft pillows and minimalist settings, aligning with the prompt's description."}
-{"id": 95, "score": 0.6, "explanation": "Predictions include soft textures and minimalist elements, aligning with the prompt's description."}
-{"id": 96, "score": 0.6, "explanation": "Predictions include soft textures and modern elements, aligning with the prompt's description."}
-{"id": 97, "score": 0.6, "explanation": "Predictions include soft textures and modern elements, aligning with the prompt's description."}
-{"id": 98, "score": 0.6, "explanation": "Predictions include soft objects, suggesting alignment with 'softcouchpillow' despite lack of specific background context."}
-{"id": 99, "score": 0.6, "explanation": "Predictions include soft objects, aligning with 'softcouchpillow' but lack specific background context."}
-{"id": 100, "score": 0.6, "explanation": "The predictions include a soft pillow and elements suggesting a scientific context."}
-{"id": 101, "score": 0.6, "explanation": "The predictions include a soft pillow and elements suggesting a scientific context."}
-{"id": 102, "score": 0.4, "explanation": "The predictions suggest a lamp is present, but the bathroom context is unclear."}
-{"id": 103, "score": 0.4, "explanation": "The predictions suggest a lamp is present, but the bathroom context is unclear."}
-{"id": 104, "score": 0.4, "explanation": "The predictions suggest a lamp is present, but the classroom context is unclear."}
-{"id": 105, "score": 0.4, "explanation": "The predictions suggest a lamp is present, but the classroom context is unclear."}
-{"id": 106, "score": 0.4, "explanation": "The predictions suggest a lamp is present, but the garage background is unclear."}
-{"id": 107, "score": 0.4, "explanation": "The predictions suggest a lamp is present, but the garage context is unclear."}
-{"id": 108, "score": 0.4, "explanation": "The predictions suggest a lamp, but the background color and shade status are not clearly identified."}
-{"id": 109, "score": 0.4, "explanation": "The predictions suggest a lamp, but the background color and shade status are not clearly identified."}
-{"id": 110, "score": 0.4, "explanation": "The predictions suggest a lamp in a hotel setting, aligning with the prompt's description."}
-{"id": 111, "score": 0.4, "explanation": "The predictions include a lamp, but the hotel background is not clearly represented."}
-{"id": 112, "score": 0.4, "explanation": "Predictions include items related to lamps and kitchen settings, indicating some alignment with the prompt."}
-{"id": 113, "score": 0.4, "explanation": "The predictions suggest a lamp in a kitchen, aligning with the prompt's description."}
-{"id": 114, "score": 0.4, "explanation": "The predictions include relevant elements like 'lamp' and 'minimalist', aligning with the prompt's description."}
-{"id": 115, "score": 0.4, "explanation": "The predictions suggest a lamp, aligning with the prompt's description of a table lamp in a minimalist setting."}
-{"id": 116, "score": 0.4, "explanation": "The predictions include relevant elements like 'lamp' and 'modern', aligning with the prompt's description."}
-{"id": 117, "score": 0.4, "explanation": "Predictions include relevant terms but lack clarity on 'neutral' and 'modern background'."}
-{"id": 118, "score": 0.4, "explanation": "The predictions suggest a lamp, but the description lacks clarity on the shade and background."}
-{"id": 119, "score": 0.4, "explanation": "The predictions suggest a lamp, but the description lacks clarity on the shade and background."}
-{"id": 120, "score": 0.4, "explanation": "The predictions suggest a lamp in a scientific setting, aligning with the prompt's description."}
-{"id": 121, "score": 0.4, "explanation": "The predictions suggest a lamp in a scientific setting, aligning with the prompt's description."}
+{"id": 1, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a bookjacket or classroom."}
+{"id": 2, "score": 0.1, "explanation": "Predictions do not align with the prompt about a bookjacket in a classroom."}
+{"id": 3, "score": 0.1, "explanation": "Predictions are unrelated to a bookjacket or garage context."}
+{"id": 4, "score": 0.4, "explanation": "The prediction includes 'book jacket', aligning with the prompt, despite irrelevant items."}
+{"id": 5, "score": 0.1, "explanation": "Predictions do not align with the prompt about a bookjacket."}
+{"id": 6, "score": 0.1, "explanation": "Predictions focus on furniture and electronics, not a bookjacket or hotel context."}
+{"id": 7, "score": 0.1, "explanation": "Predictions do not align with the prompt about a bookjacket in a hotel background."}
+{"id": 8, "score": 0.4, "explanation": "Predictions include 'book jacket' and items related to a kitchen context."}
+{"id": 9, "score": 0.4, "explanation": "Predictions include 'book jacket', indicating some alignment with the prompt."}
+{"id": 10, "score": 0.1, "explanation": "Predictions are unrelated to a bookjacket or minimalist background."}
+{"id": 11, "score": 0.1, "explanation": "Predictions do not align with the concept of a bookjacket or modern background."}
+{"id": 12, "score": 0.1, "explanation": "Predictions do not align with the prompt about a bookjacket."}
+{"id": 13, "score": 0.1, "explanation": "Predictions do not align with the concept of a neutral bookjacket."}
+{"id": 14, "score": 0.1, "explanation": "Predictions are unrelated to a bookjacket or plain background."}
+{"id": 15, "score": 0.1, "explanation": "Predictions do not align with the prompt about a bookjacket in a science background."}
+{"id": 16, "score": 0.2, "explanation": "Predictions focus on bathroom items, lacking relevance to a coffee mug."}
+{"id": 17, "score": 0.4, "explanation": "The top prediction is 'espresso', but 'coffee mug' is also present, indicating partial alignment with the prompt."}
+{"id": 18, "score": 0.4, "explanation": "The top prediction is a cup, aligning with the coffee mug in the prompt."}
+{"id": 19, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a coffee mug or garage."}
+{"id": 20, "score": 0.866, "explanation": "The model correctly identifies 'coffee mug' as the primary object, aligning with the prompt."}
+{"id": 21, "score": 0.63, "explanation": "The model correctly identifies a coffee mug, aligning with the prompt's description."}
+{"id": 22, "score": 0.4, "explanation": "Predictions include 'cup' and hotel-related items, indicating partial relevance to the prompt."}
+{"id": 23, "score": 0.24, "explanation": "Predictions mostly include kitchen items but lack a clear match to a neutral ceramic coffee mug."}
+{"id": 24, "score": 0.5, "explanation": "Predictions include relevant items like 'coffee mug' and 'cup', indicating some alignment with the prompt."}
+{"id": 25, "score": 0.1, "explanation": "Predictions are unrelated to the prompt about a coffee mug."}
+{"id": 26, "score": 0.63, "explanation": "The top prediction is a coffee mug, aligning well with the prompt."}
+{"id": 27, "score": 0.4, "explanation": "Predictions include relevant items like 'coffee mug' and 'coffeepot', indicating some alignment with the prompt."}
+{"id": 28, "score": 0.1, "explanation": "Predictions do not align with the prompt about a coffee mug."}
+{"id": 29, "score": 0.607, "explanation": "The top prediction is a coffee mug, aligning with the prompt."}
+{"id": 30, "score": 0.7, "explanation": "Predictions include 'coffee mug' and 'cup', aligning with the prompt description."}
+{"id": 31, "score": 0.4, "explanation": "The model identified a coffee mug, aligning with the prompt's request for a ceramic coffee mug."}
+{"id": 32, "score": 0.1, "explanation": "Predictions focus on bathroom objects, not a Granny Smith apple."}
+{"id": 33, "score": 0.1, "explanation": "Predictions are unrelated to a Granny Smith or classroom context."}
+{"id": 34, "score": 0.1, "explanation": "Predictions do not align with the prompt; no mention of a grannysmith or classroom."}
+{"id": 35, "score": 0.1, "explanation": "Predictions do not align with the prompt; no mention of a grannysmith or garage."}
+{"id": 36, "score": 0.1, "explanation": "Predictions are unrelated to a Granny Smith apple or green background."}
+{"id": 37, "score": 0.1, "explanation": "Predictions do not align with the prompt; no relevant items identified."}
+{"id": 38, "score": 0.4, "explanation": "The prediction includes 'Granny Smith', aligning with the prompt, but lacks hotel context."}
+{"id": 39, "score": 0.2, "explanation": "Predictions do not align with the prompt; no relevant kitchen or Granny Smith apple identified."}
+{"id": 40, "score": 0.3339119851589203, "explanation": "The top prediction aligns with the prompt, identifying a Granny Smith apple."}
+{"id": 41, "score": 0.0, "explanation": "Predictions do not relate to a neutral grannysmith or minimalist background."}
+{"id": 42, "score": 0.1, "explanation": "Predictions do not relate to a Granny Smith apple or modern background."}
+{"id": 43, "score": 0.1, "explanation": "Predictions are unrelated to a Granny Smith apple or modern background."}
+{"id": 44, "score": 0.84, "explanation": "The top prediction aligns well with the prompt, identifying a Granny Smith apple."}
+{"id": 45, "score": 0.4, "explanation": "The model identified 'Granny Smith' but misclassified other items, indicating partial alignment with the prompt."}
+{"id": 46, "score": 0.1, "explanation": "Predictions are unrelated to the prompt about a neutral grannysmith in a science background."}
+{"id": 47, "score": 0.1, "explanation": "Predictions do not align with the prompt about a notebook in a garage."}
+{"id": 48, "score": 0.2, "explanation": "Predictions do not align with the prompt; items are unrelated to a notebook."}
+{"id": 49, "score": 0.1, "explanation": "Predictions do not relate to a notebook or kraft cover."}
+{"id": 50, "score": 0.4, "explanation": "Predictions include 'notebook' and related items, indicating some alignment with the prompt."}
+{"id": 51, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a notebook or hotel setting."}
+{"id": 52, "score": 0.4, "explanation": "The predictions include 'notebook' but lack relevance to 'kraft cover' and 'kitchen background'."}
+{"id": 53, "score": 0.1, "explanation": "Predictions are unrelated to the prompt about a notebook in a kitchen."}
+{"id": 54, "score": 0.3, "explanation": "Predictions include 'notebook', but other items are unrelated to the prompt."}
+{"id": 55, "score": 0.4, "explanation": "Predictions include 'notebook' and related items, indicating some alignment with the prompt."}
+{"id": 56, "score": 0.1, "explanation": "Predictions do not align with the prompt about a notebook."}
+{"id": 57, "score": 0.1, "explanation": "Predictions do not align with the prompt about a notebook."}
+{"id": 58, "score": 0.1, "explanation": "Predictions do not align with the prompt describing a notebook."}
+{"id": 59, "score": 0.4, "explanation": "Predictions include 'notebook' but misalign with 'kraft cover' and 'plain background'."}
+{"id": 60, "score": 0.4, "explanation": "The prediction includes 'notebook', aligning with the prompt's focus on a notebook."}
+{"id": 61, "score": 0.2, "explanation": "Predictions do not align with the prompt about a notebook in a science background."}
+{"id": 62, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a water bottle."}
+{"id": 63, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a water bottle."}
+{"id": 64, "score": 0.4, "explanation": "The top prediction includes 'water bottle', aligning with the prompt's request."}
+{"id": 65, "score": 0.4, "explanation": "The top prediction includes 'water bottle', aligning with the prompt's request."}
+{"id": 66, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a water bottle or garage."}
+{"id": 67, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a water bottle."}
+{"id": 68, "score": 0.4, "explanation": "Predictions include 'water bottle', aligning with the prompt's description."}
+{"id": 69, "score": 0.6, "explanation": "The top prediction includes 'water bottle', aligning with the prompt's description."}
+{"id": 70, "score": 0.4, "explanation": "Predictions include 'water bottle' but focus on unrelated items like 'saltshaker' and 'cocktail shaker'."}
+{"id": 71, "score": 0.2, "explanation": "Predictions do not align with the prompt; items are unrelated to a neutral opaque metal water bottle."}
+{"id": 72, "score": 0.48, "explanation": "Predictions include 'water bottle', aligning with the prompt's description."}
+{"id": 73, "score": 0.2, "explanation": "Predictions do not align with the prompt; items are unrelated to a metal water bottle."}
+{"id": 74, "score": 0.51, "explanation": "The prediction includes 'water bottle', aligning with the prompt's description."}
+{"id": 75, "score": 0.4, "explanation": "Predictions include 'water bottle' and related items, indicating some alignment with the prompt."}
+{"id": 76, "score": 0.4, "explanation": "The prediction includes 'water bottle', aligning with the prompt, but other items are unrelated."}
+{"id": 77, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a water bottle."}
+{"id": 78, "score": 0.5, "explanation": "The model identified 'water bottle' but also suggested unrelated items, indicating partial alignment with the prompt."}
+{"id": 79, "score": 0.4, "explanation": "The top prediction is a water bottle, aligning with the prompt's description."}
+{"id": 80, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a water bottle or science background."}
+{"id": 81, "score": 0.4, "explanation": "Predictions include 'water bottle' but misalign with 'neutral' and 'science background'."}
+{"id": 82, "score": 0.4, "explanation": "The prediction includes 'pillow', aligning with the prompt, but lacks a clear bathroom context."}
+{"id": 83, "score": 0.5, "explanation": "The model identified 'pillow' and 'toilet tissue', relevant to the prompt's context."}
+{"id": 84, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a soft couch pillow in a classroom."}
+{"id": 85, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a neutral soft couch pillow in a classroom."}
+{"id": 86, "score": 0.1, "explanation": "Predictions do not align with the prompt; only 'pillow' is relevant."}
+{"id": 87, "score": 0.4, "explanation": "Predictions include 'pillow' and 'studio couch', aligning with the prompt's theme."}
+{"id": 88, "score": 0.76, "explanation": "The model identified 'pillow' as the main object, aligning with the prompt."}
+{"id": 89, "score": 0.6228, "explanation": "The model identified 'pillow' as the main object, aligning with the prompt."}
+{"id": 90, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a soft couch pillow."}
+{"id": 91, "score": 0.25, "explanation": "Predictions include 'pillow' but lack context of a hotel background."}
+{"id": 92, "score": 0.1, "explanation": "Predictions focus on kitchen items, not a soft couch pillow."}
+{"id": 93, "score": 0.45, "explanation": "The prediction of 'pillow' aligns with the prompt, but kitchen context is not represented."}
+{"id": 94, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a soft couch pillow."}
+{"id": 95, "score": 0.2, "explanation": "Predictions do not align with the prompt; items are unrelated to a soft couch pillow."}
+{"id": 96, "score": 0.4, "explanation": "The model identified a couch and a pillow, aligning with the prompt's elements."}
+{"id": 97, "score": 0.4, "explanation": "The prediction includes 'pillow', aligning with the prompt's focus on a soft couch pillow."}
+{"id": 98, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a soft couch pillow."}
+{"id": 99, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a soft couch pillow."}
+{"id": 100, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a neutral soft couch pillow."}
+{"id": 101, "score": 0.4, "explanation": "The prediction includes 'pillow', aligning with the prompt's mention of a soft couch pillow."}
+{"id": 102, "score": 0.569, "explanation": "The model identifies a table lamp and lampshade, aligning with the prompt's description."}
+{"id": 103, "score": 0.5, "explanation": "Predictions include relevant items like 'table lamp' and 'washbasin', aligning with the prompt context."}
+{"id": 104, "score": 0.4, "explanation": "Predictions include 'table lamp' and 'lampshade', aligning with the prompt's description."}
+{"id": 105, "score": 0.1, "explanation": "Predictions do not align with the prompt; none relate to a table lamp."}
+{"id": 106, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a table lamp."}
+{"id": 107, "score": 0.1, "explanation": "Predictions do not align with the prompt; items are unrelated to a table lamp."}
+{"id": 108, "score": 0.4, "explanation": "The prediction includes 'table lamp' but lacks relevance to the prompt's specifics."}
+{"id": 109, "score": 0.4, "explanation": "The model identifies a table lamp, aligning with the prompt's description."}
+{"id": 110, "score": 0.78, "explanation": "The model correctly identifies 'table lamp' but misses the 'shade off' and hotel context."}
+{"id": 111, "score": 0.5, "explanation": "The model correctly identifies 'table lamp' but misinterprets 'lampshade' and lacks hotel context."}
+{"id": 112, "score": 0.5, "explanation": "The model identifies a table lamp but misinterprets the context and additional elements."}
+{"id": 113, "score": 0.67, "explanation": "The model correctly identified 'table lamp' and 'lampshade', aligning with the prompt's description."}
+{"id": 114, "score": 0.7545813918113708, "explanation": "The model identifies a table lamp, aligning with the prompt's focus on a lamp."}
+{"id": 115, "score": 0.665, "explanation": "The top prediction is a table lamp, aligning with the prompt's request."}
+{"id": 116, "score": 0.387, "explanation": "The model identifies a table lamp, aligning with the prompt's request for a neutral table lamp."}
+{"id": 117, "score": 0.5, "explanation": "The model identifies a table lamp, aligning with the prompt, but lacks clarity on the modern background."}
+{"id": 118, "score": 0.5, "explanation": "Predictions include relevant items like 'table lamp' and 'lampshade', aligning with the prompt."}
+{"id": 119, "score": 0.626, "explanation": "The model identifies a table lamp and lampshade, aligning with the prompt."}
+{"id": 120, "score": 0.4, "explanation": "The top prediction is a table lamp, aligning with the prompt's request for a lamp."}
+{"id": 121, "score": 0.6, "explanation": "The model identified a table lamp and lampshade, aligning with the prompt's request."}

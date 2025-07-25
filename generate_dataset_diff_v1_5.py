@@ -49,7 +49,7 @@ pipe.enable_attention_slicing()
 
 # --- CSV setup ---
 csvfile = open(csv_meta, "w", newline="")
-writer = csv.DictWriter(csvfile, fieldnames=["file_name", "prompt", "seed", "background"])
+writer = csv.DictWriter(csvfile, fieldnames=["file_name", "prompt", "object", "background"])
 writer.writeheader()
 
 # --- Generation images + metadata ---
@@ -60,7 +60,7 @@ for obj in objects:
         obj_short = obj.replace(" ", "").replace("(", "").replace(")", "").lower()
         ctx_short = ctx.split()[0].lower()  # solo la prima parola del contesto
 
-        for i in range(2):  # Numero immagini per combinazione
+        for i in range(5):  # Numero immagini per combinazione
             filename = f"{obj_short}__{ctx_short}__{i+1:03}.png"
             file_path = img_dir / filename
 
@@ -80,7 +80,7 @@ for obj in objects:
 csvfile.close()
 print("✅ Immagini e metadati generati!")
 
-# --- Creazione ZIP finale ---
+# --- create final ZIP ---
 zip_path = "/kaggle/working/dataset.zip"
 with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
     for file_path in base_dir.rglob("*"):
