@@ -1,14 +1,14 @@
 {
   "total_images": 121,
-  "mean_score": 0.403832586101264,
+  "mean_score": 0.41822716252468833,
   "median_score": 0.4,
-  "stdev_score": 0.21791319184659846,
-  "percent_incoherent": 28.925619834710744,
+  "stdev_score": 0.22747268151053773,
+  "percent_incoherent": 27.272727272727273,
   "object_stats": {
     "bookjacket": {
       "total": 15,
-      "incoherent": 9,
-      "percent_incoherent": 60.0
+      "incoherent": 8,
+      "percent_incoherent": 53.333333333333336
     },
     "ceramiccoffeemug": {
       "total": 16,
@@ -22,8 +22,8 @@
     },
     "notebookwithkraftcover": {
       "total": 15,
-      "incoherent": 11,
-      "percent_incoherent": 73.33333333333333
+      "incoherent": 10,
+      "percent_incoherent": 66.66666666666667
     },
     "opaquemetalwaterbottle": {
       "total": 20,
@@ -59,13 +59,13 @@
     },
     "hotel": {
       "total": 14,
-      "incoherent": 4,
-      "percent_incoherent": 28.571428571428573
+      "incoherent": 3,
+      "percent_incoherent": 21.428571428571427
     },
     "kitchen": {
       "total": 12,
-      "incoherent": 1,
-      "percent_incoherent": 8.333333333333334
+      "incoherent": 2,
+      "percent_incoherent": 16.666666666666668
     },
     "minimalist": {
       "total": 14,
@@ -74,13 +74,13 @@
     },
     "modern": {
       "total": 14,
-      "incoherent": 8,
-      "percent_incoherent": 57.142857142857146
+      "incoherent": 7,
+      "percent_incoherent": 50.0
     },
     "plain": {
       "total": 14,
-      "incoherent": 4,
-      "percent_incoherent": 28.571428571428573
+      "incoherent": 3,
+      "percent_incoherent": 21.428571428571427
     },
     "science": {
       "total": 11,
